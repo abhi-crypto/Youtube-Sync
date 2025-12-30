@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2025-12-30 10:43:38 UTC
+> **Last Sync Date:** 2025-12-30 10:50:48 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,6 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/umZReVr10Xw/default.jpg) | **GuyInACube** | [Get Started with Power BI Modeling MCP Server: Step-by-Step Installation Guide (VS Code + Claude)](https://www.youtube.com/watch?v=umZReVr10Xw) |
 | ![GuyInACube](https://i.ytimg.com/vi/qc4JlnOwIwQ/default.jpg) | **GuyInACube** | [The new Fabric Shortcuts to SharePoint - Zero Pipelines, Zero Code, ALL (AUTO)MAGIC!](https://www.youtube.com/watch?v=qc4JlnOwIwQ) |
 | ![GuyInACube](https://i.ytimg.com/vi/nuSqOOhUWIc/default.jpg) | **GuyInACube** | [DAX UDFs is here to change things up!](https://www.youtube.com/watch?v=nuSqOOhUWIc) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/JWczuteySBM/default.jpg) | **MicrosoftFabric** | [Day in the Life of a Data Analyst: Meetings, SQL, So Much Food](https://www.youtube.com/watch?v=JWczuteySBM) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/fF8erdGR7S8/default.jpg) | **MicrosoftFabric** | [Data Analyst Salary in 2025: $50k to $175k](https://www.youtube.com/watch?v=fF8erdGR7S8) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/CoqZTt528ew/default.jpg) | **MicrosoftFabric** | [Learn Databricks in Under 2 Hours](https://www.youtube.com/watch?v=CoqZTt528ew) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/WVVyin5pH4M/default.jpg) | **MicrosoftFabric** | [Simplifying Medallion Architecture with Materialized Lake Views](https://www.youtube.com/watch?v=WVVyin5pH4M) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/adL0OyUCysw/default.jpg) | **MicrosoftFabric** | [4 Essential Power BI Tips Every Developer Should Know](https://www.youtube.com/watch?v=adL0OyUCysw) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/jP_behrOjwk/default.jpg) | **MicrosoftFabric** | [Real-Time Intelligence in Microsoft Fabric: Why It Changes Everything](https://www.youtube.com/watch?v=jP_behrOjwk) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/W_saeZo7Uic/default.jpg) | **PragmaticWorks** | [The Format Painter in Power BI is a GAME CHANGER!](https://www.youtube.com/watch?v=W_saeZo7Uic) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/dzAJYWA7IjU/default_live.jpg) | **PragmaticWorks** | [Preview - Learn With The Nerds Power BI Beginner to Pro 2026 Edition](https://www.youtube.com/watch?v=dzAJYWA7IjU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/c-zlMcdIqk0/default_live.jpg) | **PragmaticWorks** | [Free Event: Power BI Beginner to Pro 2026 Edition - Full Hands-On Tutorial](https://www.youtube.com/watch?v=c-zlMcdIqk0) |
