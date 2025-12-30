@@ -1,1 +1,38 @@
+name: Daily YouTube Update
+
+on:
+  schedule:
+    # This runs the script every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # This allows you to run it manually anytime
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install google-api-python-client
+
+    - name: Run update script
+      env:
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      run: python update_videos.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add README.md
+        git commit -m "Automated update: Latest Fabric & Power BI videos" || exit 0
+        git push
 
