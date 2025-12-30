@@ -1,41 +1,42 @@
 name: Daily YouTube Update
 
 on:
+  workflow_dispatch: # Allows you to click "Run Workflow" manually
   schedule:
-    # This runs the script every day at 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # This allows you to run it manually anytime
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial: Gives the action permission to update files
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.12' # Change from 3.9 to 3.12 or 3.13
+        python-version: '3.12'
 
     - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
-
+      run: pip install google-api-python-client
 
     - name: Run update script
       env:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       run: python update_videos.py
 
+    - name: Check if README changed
+      run: cat README.md # This will print the content in the logs so we can see it worked
+
     - name: Commit and push changes
       run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "action@github.com"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add README.md
-        git commit -m "Automated update: Latest Fabric & Power BI videos" || echo "No changes to commit"
+        git commit -m "Automated update: Latest Videos" || echo "No changes to commit"
         git push origin main
 
 
