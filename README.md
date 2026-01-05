@@ -1,11 +1,11 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-01-04 01:22:52 UTC
+> **Last Sync Date:** 2026-01-05 01:21:34 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
-| ![SQLBI](https://i.ytimg.com/vi/NxM823R3Tow/default.jpg) | **SQLBI** | [What happened in DAX in 2025](https://www.youtube.com/watch?v=NxM823R3Tow) |
 | ![SQLBI](https://i.ytimg.com/vi/FrUqHSgqLJ0/default.jpg) | **SQLBI** | [Dynamic pricing model for aircraft seat sales with Synoptic Panel and Power BI](https://www.youtube.com/watch?v=FrUqHSgqLJ0) |
 | ![SQLBI](https://i.ytimg.com/vi/fAYsQ7cHX4I/default.jpg) | **SQLBI** | [Measuring the impact of promotions on sales in Power BI](https://www.youtube.com/watch?v=fAYsQ7cHX4I) |
+| ![SQLBI](https://i.ytimg.com/vi/yIqKej9p8b0/default.jpg) | **SQLBI** | [Introducing DAX Lib](https://www.youtube.com/watch?v=yIqKej9p8b0) |
 | ![GuyInACube](https://i.ytimg.com/vi/umZReVr10Xw/default.jpg) | **GuyInACube** | [Get Started with Power BI Modeling MCP Server: Step-by-Step Installation Guide (VS Code + Claude)](https://www.youtube.com/watch?v=umZReVr10Xw) |
 | ![GuyInACube](https://i.ytimg.com/vi/qc4JlnOwIwQ/default.jpg) | **GuyInACube** | [The new Fabric Shortcuts to SharePoint - Zero Pipelines, Zero Code, ALL (AUTO)MAGIC!](https://www.youtube.com/watch?v=qc4JlnOwIwQ) |
 | ![GuyInACube](https://i.ytimg.com/vi/nuSqOOhUWIc/default.jpg) | **GuyInACube** | [DAX UDFs is here to change things up!](https://www.youtube.com/watch?v=nuSqOOhUWIc) |
