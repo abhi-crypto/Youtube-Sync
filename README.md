@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-01-05 01:21:34 UTC
+> **Last Sync Date:** 2026-01-06 01:15:33 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,5 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/WVVyin5pH4M/default.jpg) | **MicrosoftFabric** | [Simplifying Medallion Architecture with Materialized Lake Views](https://www.youtube.com/watch?v=WVVyin5pH4M) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/adL0OyUCysw/default.jpg) | **MicrosoftFabric** | [4 Essential Power BI Tips Every Developer Should Know](https://www.youtube.com/watch?v=adL0OyUCysw) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/jP_behrOjwk/default.jpg) | **MicrosoftFabric** | [Real-Time Intelligence in Microsoft Fabric: Why It Changes Everything](https://www.youtube.com/watch?v=jP_behrOjwk) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/dzAJYWA7IjU/default.jpg) | **PragmaticWorks** | [Preview - Learn With The Nerds Power BI Beginner to Pro 2026 Edition](https://www.youtube.com/watch?v=dzAJYWA7IjU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/dyrd6MdDMyw/default.jpg) | **PragmaticWorks** | [Using Copilot to do the work for me in Power BI!](https://www.youtube.com/watch?v=dyrd6MdDMyw) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/jDR5J-5AlsA/default.jpg) | **PragmaticWorks** | [Unlock Fabric CLI Automation! Supercharge Your Admin Workflow!](https://www.youtube.com/watch?v=jDR5J-5AlsA) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/c-zlMcdIqk0/default_live.jpg) | **PragmaticWorks** | [Free Event: Power BI Beginner to Pro 2026 Edition - Full Hands-On Tutorial](https://www.youtube.com/watch?v=c-zlMcdIqk0) |
