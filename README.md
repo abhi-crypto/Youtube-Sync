@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-01-07 01:15:57 UTC
+> **Last Sync Date:** 2026-01-08 01:16:32 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/WVVyin5pH4M/default.jpg) | **MicrosoftFabric** | [Simplifying Medallion Architecture with Materialized Lake Views](https://www.youtube.com/watch?v=WVVyin5pH4M) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/adL0OyUCysw/default.jpg) | **MicrosoftFabric** | [4 Essential Power BI Tips Every Developer Should Know](https://www.youtube.com/watch?v=adL0OyUCysw) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/jP_behrOjwk/default.jpg) | **MicrosoftFabric** | [Real-Time Intelligence in Microsoft Fabric: Why It Changes Everything](https://www.youtube.com/watch?v=jP_behrOjwk) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/NtCy5o5sDE0/default.jpg) | **PragmaticWorks** | [Copilot Can Read Your Tone in Emails!](https://www.youtube.com/watch?v=NtCy5o5sDE0) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/SafGzVLh-0w/default.jpg) | **PragmaticWorks** | [How to Prepare Your Data for AI in Power BI!](https://www.youtube.com/watch?v=SafGzVLh-0w) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/-yCJHMr1QIE/default.jpg) | **PragmaticWorks** | [Make Project Plans QUICKLY and EASILY with Copilot!](https://www.youtube.com/watch?v=-yCJHMr1QIE) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/jIhiyYMSpf4/default.jpg) | **PragmaticWorks** | [Accelerate Development in Fabric with DataFlows and Copilot](https://www.youtube.com/watch?v=jIhiyYMSpf4) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/dyrd6MdDMyw/default.jpg) | **PragmaticWorks** | [Using Copilot to do the work for me in Power BI!](https://www.youtube.com/watch?v=dyrd6MdDMyw) |
