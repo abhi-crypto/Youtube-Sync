@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-01-10 01:13:48 UTC
+> **Last Sync Date:** 2026-01-11 01:22:37 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,9 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/EJPisMWTMTA/default.jpg) | **GuyInACube** | [The Power BI MCP Server is changing the game of how you do Power BI!](https://www.youtube.com/watch?v=EJPisMWTMTA) |
 | ![GuyInACube](https://i.ytimg.com/vi/umZReVr10Xw/default.jpg) | **GuyInACube** | [Get Started with Power BI Modeling MCP Server: Step-by-Step Installation Guide (VS Code + Claude)](https://www.youtube.com/watch?v=umZReVr10Xw) |
 | ![GuyInACube](https://i.ytimg.com/vi/qc4JlnOwIwQ/default.jpg) | **GuyInACube** | [The new Fabric Shortcuts to SharePoint - Zero Pipelines, Zero Code, ALL (AUTO)MAGIC!](https://www.youtube.com/watch?v=qc4JlnOwIwQ) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/Bbhy2DxdDM4/default.jpg) | **MicrosoftFabric** | [Qcells unifies clean solar energy operations globally with Fabric](https://www.youtube.com/watch?v=Bbhy2DxdDM4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/n8Sd_l7XBN4/default.jpg) | **MicrosoftFabric** | [Building a Metadata-Driven Framework in Microsoft Fabric](https://www.youtube.com/watch?v=n8Sd_l7XBN4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/CjMkj-Mbk4M/default.jpg) | **MicrosoftFabric** | [FabCon TV: Partnering for Success - Lucid Data Hub and Microsoft Fabric](https://www.youtube.com/watch?v=CjMkj-Mbk4M) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/WVVyin5pH4M/default.jpg) | **MicrosoftFabric** | [Simplifying Medallion Architecture with Materialized Lake Views](https://www.youtube.com/watch?v=WVVyin5pH4M) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/ceMUMFnkzxs/default.jpg) | **PragmaticWorks** | [How to Add Staff to Your Microsoft Booking Page!](https://www.youtube.com/watch?v=ceMUMFnkzxs) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/c-zlMcdIqk0/default.jpg) | **PragmaticWorks** | [Free Event: Power BI Beginner to Pro 2026 Edition - Full Hands-On Tutorial](https://www.youtube.com/watch?v=c-zlMcdIqk0) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/CrOYNP8ORls/default.jpg) | **PragmaticWorks** | [Prep Data for AI DOESN&#39;T Work in Power BI!?](https://www.youtube.com/watch?v=CrOYNP8ORls) |
