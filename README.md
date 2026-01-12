@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-01-11 01:22:37 UTC
+> **Last Sync Date:** 2026-01-12 01:19:21 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -14,4 +14,4 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/CjMkj-Mbk4M/default.jpg) | **MicrosoftFabric** | [FabCon TV: Partnering for Success - Lucid Data Hub and Microsoft Fabric](https://www.youtube.com/watch?v=CjMkj-Mbk4M) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/ceMUMFnkzxs/default.jpg) | **PragmaticWorks** | [How to Add Staff to Your Microsoft Booking Page!](https://www.youtube.com/watch?v=ceMUMFnkzxs) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/c-zlMcdIqk0/default.jpg) | **PragmaticWorks** | [Free Event: Power BI Beginner to Pro 2026 Edition - Full Hands-On Tutorial](https://www.youtube.com/watch?v=c-zlMcdIqk0) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/CrOYNP8ORls/default.jpg) | **PragmaticWorks** | [Prep Data for AI DOESN&#39;T Work in Power BI!?](https://www.youtube.com/watch?v=CrOYNP8ORls) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/EoubRgyigag/default.jpg) | **PragmaticWorks** | [X Functions - What Are They and How Do They Work?](https://www.youtube.com/watch?v=EoubRgyigag) |
