@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-01-26 01:22:15 UTC
+> **Last Sync Date:** 2026-01-27 01:21:39 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/7fNiPAvG1Fs/default.jpg) | **MicrosoftFabric** | [A Metadata-Driven Architecture Using Microsoft Fabric](https://www.youtube.com/watch?v=7fNiPAvG1Fs) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/ul16PjHNiVs/default.jpg) | **MicrosoftFabric** | [Fabric Data Agents 101 Promo](https://www.youtube.com/watch?v=ul16PjHNiVs) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/MQkuVe-0ufw/default.jpg) | **MicrosoftFabric** | [FabCon TV: Shireesh Thota - Day 2 Keynote Recap](https://www.youtube.com/watch?v=MQkuVe-0ufw) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/QcKVXo2HH0I/default.jpg) | **PragmaticWorks** | [What&#39;s the Difference Between Dataflow Gen1 and Gen2?](https://www.youtube.com/watch?v=QcKVXo2HH0I) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/0dBcOM_DohM/default.jpg) | **PragmaticWorks** | [Automate YOUR Administrative Tasks with Fabric CLI!](https://www.youtube.com/watch?v=0dBcOM_DohM) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/7JpcnF6xLxM/default_live.jpg) | **PragmaticWorks** | [Free Event: Vibe Programming with Power Platform - Full Course](https://www.youtube.com/watch?v=7JpcnF6xLxM) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/aehvr3KBqIA/default_live.jpg) | **PragmaticWorks** | [Preview: Learn With The Nerds Vibe Programming with Power Platform](https://www.youtube.com/watch?v=aehvr3KBqIA) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/enr3rwhA7V8/default.jpg) | **PragmaticWorks** | [Fabric Spark Settings EXPLAINED!](https://www.youtube.com/watch?v=enr3rwhA7V8) |
