@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-02-01 01:51:12 UTC
+> **Last Sync Date:** 2026-02-02 01:44:03 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/gVKAwNpQfak/default.jpg) | **MicrosoftFabric** | [Fabric Update - January 2026](https://www.youtube.com/watch?v=gVKAwNpQfak) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/ADGyzUHsMU4/default.jpg) | **MicrosoftFabric** | [FabCon TV: Kim Manis - Day 2 Keynote Recap](https://www.youtube.com/watch?v=ADGyzUHsMU4) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/R53aoUaVQao/default.jpg) | **PragmaticWorks** | [Can&#39;t Read Your Measures in Power BI? Make It CLEAR with this Quick Tip!](https://www.youtube.com/watch?v=R53aoUaVQao) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/_SB_irxQ6nM/default.jpg) | **PragmaticWorks** | [Check Out This New Addition to Data Pipelines in Microsoft Fabric!](https://www.youtube.com/watch?v=_SB_irxQ6nM) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/SZSQ70sytlU/default.jpg) | **PragmaticWorks** | [Introduction to Microsoft Fabric Data Agents](https://www.youtube.com/watch?v=SZSQ70sytlU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/7JpcnF6xLxM/default_live.jpg) | **PragmaticWorks** | [Free Event: Vibe Programming with Power Platform - Full Course](https://www.youtube.com/watch?v=7JpcnF6xLxM) |
