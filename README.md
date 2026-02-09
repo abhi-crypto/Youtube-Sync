@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-02-08 02:03:13 UTC
+> **Last Sync Date:** 2026-02-09 01:46:39 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,4 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/AvgxYynucW0/default.jpg) | **MicrosoftFabric** | [FabCon + SQL Con 2026: Everything Coming to Atlanta!](https://www.youtube.com/watch?v=AvgxYynucW0) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/CpdkvhQ95Wc/default.jpg) | **MicrosoftFabric** | [FabCon TV: Study Smarter: How to Prep for Microsoft Fabric Exams](https://www.youtube.com/watch?v=CpdkvhQ95Wc) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/k0pyLpIzsaU/default.jpg) | **PragmaticWorks** | [Check Out The ENHANCED DAX Time Intelligence Feature in Power BI!](https://www.youtube.com/watch?v=k0pyLpIzsaU) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/trTkXkMRom8/default.jpg) | **PragmaticWorks** | [Deployment Pipelines DONT MOVE Your Data in Microsoft Fabric - Avoid This Pitfall!](https://www.youtube.com/watch?v=trTkXkMRom8) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/aehvr3KBqIA/default.jpg) | **PragmaticWorks** | [Preview: Learn With The Nerds Vibe Programming with Power Platform](https://www.youtube.com/watch?v=aehvr3KBqIA) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/g2zpFE5r43Y/default.jpg) | **PragmaticWorks** | [Check Out Glass Look for Power BI!](https://www.youtube.com/watch?v=g2zpFE5r43Y) |
