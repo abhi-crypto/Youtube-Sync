@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-02-09 01:46:39 UTC
+> **Last Sync Date:** 2026-02-10 01:57:02 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,5 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/TneXzxoM4-M/default.jpg) | **MicrosoftFabric** | [Bridging Notebooks and Power BI: Exploring Semantic Link in Microsoft Fabric](https://www.youtube.com/watch?v=TneXzxoM4-M) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/AvgxYynucW0/default.jpg) | **MicrosoftFabric** | [FabCon + SQL Con 2026: Everything Coming to Atlanta!](https://www.youtube.com/watch?v=AvgxYynucW0) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/CpdkvhQ95Wc/default.jpg) | **MicrosoftFabric** | [FabCon TV: Study Smarter: How to Prep for Microsoft Fabric Exams](https://www.youtube.com/watch?v=CpdkvhQ95Wc) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/cGq_U__p3nU/default.jpg) | **PragmaticWorks** | [So, What IS Spark Job Bursting? | Microsoft Fabric Quick Tip](https://www.youtube.com/watch?v=cGq_U__p3nU) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/k0pyLpIzsaU/default.jpg) | **PragmaticWorks** | [Check Out The ENHANCED DAX Time Intelligence Feature in Power BI!](https://www.youtube.com/watch?v=k0pyLpIzsaU) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/g2zpFE5r43Y/default.jpg) | **PragmaticWorks** | [Check Out Glass Look for Power BI!](https://www.youtube.com/watch?v=g2zpFE5r43Y) |
