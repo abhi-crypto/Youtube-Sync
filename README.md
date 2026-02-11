@@ -1,17 +1,17 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-02-10 01:57:02 UTC
+> **Last Sync Date:** 2026-02-11 01:52:49 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
+| ![SQLBI](https://i.ytimg.com/vi/FoHku9KsBaw/default.jpg) | **SQLBI** | [Understanding DATEADD parameters with calendar based time intelligence](https://www.youtube.com/watch?v=FoHku9KsBaw) |
 | ![SQLBI](https://i.ytimg.com/vi/B7BK8B9LKE4/default.jpg) | **SQLBI** | [Displaying injury data on the human body by using Synoptic Panel in Power BI](https://www.youtube.com/watch?v=B7BK8B9LKE4) |
 | ![SQLBI](https://i.ytimg.com/vi/v41Zal354hE/default.jpg) | **SQLBI** | [Show transaction details on matrix visual in Power BI](https://www.youtube.com/watch?v=v41Zal354hE) |
-| ![SQLBI](https://i.ytimg.com/vi/lqopEX1DAso/default.jpg) | **SQLBI** | [When variables are actually evaluated in DAX](https://www.youtube.com/watch?v=lqopEX1DAso) |
 | ![GuyInACube](https://i.ytimg.com/vi/iyWOy8RliiM/default.jpg) | **GuyInACube** | [OneLake Explained in less than 10 Minutes (Microsoft Fabric Fundamentals)](https://www.youtube.com/watch?v=iyWOy8RliiM) |
 | ![GuyInACube](https://i.ytimg.com/vi/umZReVr10Xw/default.jpg) | **GuyInACube** | [Get Started with Power BI Modeling MCP Server: Step-by-Step Installation Guide (VS Code + Claude)](https://www.youtube.com/watch?v=umZReVr10Xw) |
 | ![GuyInACube](https://i.ytimg.com/vi/qc4JlnOwIwQ/default.jpg) | **GuyInACube** | [The new Fabric Shortcuts to SharePoint - Zero Pipelines, Zero Code, ALL (AUTO)MAGIC!](https://www.youtube.com/watch?v=qc4JlnOwIwQ) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/TneXzxoM4-M/default.jpg) | **MicrosoftFabric** | [Bridging Notebooks and Power BI: Exploring Semantic Link in Microsoft Fabric](https://www.youtube.com/watch?v=TneXzxoM4-M) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/AvgxYynucW0/default.jpg) | **MicrosoftFabric** | [FabCon + SQL Con 2026: Everything Coming to Atlanta!](https://www.youtube.com/watch?v=AvgxYynucW0) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/CpdkvhQ95Wc/default.jpg) | **MicrosoftFabric** | [FabCon TV: Study Smarter: How to Prep for Microsoft Fabric Exams](https://www.youtube.com/watch?v=CpdkvhQ95Wc) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/YapQbuFUUNY/default.jpg) | **MicrosoftFabric** | [Streamline Data Engineering operations using Semantic Link](https://www.youtube.com/watch?v=YapQbuFUUNY) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/F59zX6y2MqA/default.jpg) | **MicrosoftFabric** | [Accelerate Data Science on trusted Semantic Models using Semantic Link](https://www.youtube.com/watch?v=F59zX6y2MqA) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/L6fmElJ3LE8/default.jpg) | **MicrosoftFabric** | [Automate Power BI tasks using Semantic Link](https://www.youtube.com/watch?v=L6fmElJ3LE8) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/j4AEfzQcY3c/default.jpg) | **PragmaticWorks** | [How to Reserve Capacity for your Spark Jobs | Microsoft Fabric Quick Tip](https://www.youtube.com/watch?v=j4AEfzQcY3c) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/cdKB3pzcFwQ/default.jpg) | **PragmaticWorks** | [How to Edit Fabric Semantic Models with Power BI Desktop (Connect vs Edit Explained)](https://www.youtube.com/watch?v=cdKB3pzcFwQ) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/cGq_U__p3nU/default.jpg) | **PragmaticWorks** | [So, What IS Spark Job Bursting? | Microsoft Fabric Quick Tip](https://www.youtube.com/watch?v=cGq_U__p3nU) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/k0pyLpIzsaU/default.jpg) | **PragmaticWorks** | [Check Out The ENHANCED DAX Time Intelligence Feature in Power BI!](https://www.youtube.com/watch?v=k0pyLpIzsaU) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/g2zpFE5r43Y/default.jpg) | **PragmaticWorks** | [Check Out Glass Look for Power BI!](https://www.youtube.com/watch?v=g2zpFE5r43Y) |
