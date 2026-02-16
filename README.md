@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-02-15 01:47:54 UTC
+> **Last Sync Date:** 2026-02-16 01:44:16 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/YapQbuFUUNY/default.jpg) | **MicrosoftFabric** | [Streamline Data Engineering operations using Semantic Link](https://www.youtube.com/watch?v=YapQbuFUUNY) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/F59zX6y2MqA/default.jpg) | **MicrosoftFabric** | [Accelerate Data Science on trusted Semantic Models using Semantic Link](https://www.youtube.com/watch?v=F59zX6y2MqA) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/kse0XydtjCg/default.jpg) | **PragmaticWorks** | [Spark Pool Settings in Fabric EXPLAINED!](https://www.youtube.com/watch?v=kse0XydtjCg) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/jmJ0iDp-yNA/default.jpg) | **PragmaticWorks** | [What Is High Concurrency in Fabric Spark Settings?](https://www.youtube.com/watch?v=jmJ0iDp-yNA) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/7JpcnF6xLxM/default.jpg) | **PragmaticWorks** | [Free Event: Vibe Programming with Power Platform - Full Course](https://www.youtube.com/watch?v=7JpcnF6xLxM) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/mvi2g-MP6-0/default.jpg) | **PragmaticWorks** | [Introduction to OneLake Security in Fabric (Row, Column &amp; Object Level Security)](https://www.youtube.com/watch?v=mvi2g-MP6-0) |
