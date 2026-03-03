@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-03-02 01:29:24 UTC
+> **Last Sync Date:** 2026-03-03 01:44:18 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -7,32 +7,31 @@
 | ![SQLBI](https://i.ytimg.com/vi/B7BK8B9LKE4/default.jpg) | **SQLBI** | [Displaying injury data on the human body by using Synoptic Panel in Power BI](https://www.youtube.com/watch?v=B7BK8B9LKE4) |
 | ![SQLBI](https://i.ytimg.com/vi/v41Zal354hE/default.jpg) | **SQLBI** | [Show transaction details on matrix visual in Power BI](https://www.youtube.com/watch?v=v41Zal354hE) |
 | ![GuyInACube](https://i.ytimg.com/vi/_uixX5O4jJg/default.jpg) | **GuyInACube** | [Prompting for Analytics is Different!](https://www.youtube.com/watch?v=_uixX5O4jJg) |
-| ![GuyInACube](https://i.ytimg.com/vi/QYEWknE6e6s/default.jpg) | **GuyInACube** | [Fabric Maps – Build a Live Geographic Dashboard Without Power BI Hacks](https://www.youtube.com/watch?v=QYEWknE6e6s) |
 | ![GuyInACube](https://i.ytimg.com/vi/LCmrwMPDEZo/default.jpg) | **GuyInACube** | [Why the Same Prompt Gave Me Different Results in Power BI Copilot](https://www.youtube.com/watch?v=LCmrwMPDEZo) |
 | ![GuyInACube](https://i.ytimg.com/vi/ROnDcrEpgKc/default.jpg) | **GuyInACube** | [Stop Giving Workspace Access for Copilot!](https://www.youtube.com/watch?v=ROnDcrEpgKc) |
-| ![GuyInACube](https://i.ytimg.com/vi/2sY6wu5tBGc/default.jpg) | **GuyInACube** | [Cut your DAX in half! UDF + Calc Groups = 😍](https://www.youtube.com/watch?v=2sY6wu5tBGc) |
-| ![GuyInACube](https://i.ytimg.com/vi/iyWOy8RliiM/default.jpg) | **GuyInACube** | [OneLake Explained in less than 10 Minutes (Microsoft Fabric Fundamentals)](https://www.youtube.com/watch?v=iyWOy8RliiM) |
-| ![GuyInACube](https://i.ytimg.com/vi/umZReVr10Xw/default.jpg) | **GuyInACube** | [Get Started with Power BI Modeling MCP Server: Step-by-Step Installation Guide (VS Code + Claude)](https://www.youtube.com/watch?v=umZReVr10Xw) |
-| ![GuyInACube](https://i.ytimg.com/vi/qc4JlnOwIwQ/default.jpg) | **GuyInACube** | [The new Fabric Shortcuts to SharePoint - Zero Pipelines, Zero Code, ALL (AUTO)MAGIC!](https://www.youtube.com/watch?v=qc4JlnOwIwQ) |
-| ![GuyInACube](https://i.ytimg.com/vi/nuSqOOhUWIc/default.jpg) | **GuyInACube** | [DAX UDFs is here to change things up!](https://www.youtube.com/watch?v=nuSqOOhUWIc) |
-| ![GuyInACube](https://i.ytimg.com/vi/GfeepQp3Xuc/default.jpg) | **GuyInACube** | [Stop Sharing Power BI Reports the Hard Way! (Use Org Apps Instead 🚀)](https://www.youtube.com/watch?v=GfeepQp3Xuc) |
-| ![GuyInACube](https://i.ytimg.com/vi/9g1RJUiQVXo/default.jpg) | **GuyInACube** | [The Tooltip Mistake Everyone Makes in Power BI Reports](https://www.youtube.com/watch?v=9g1RJUiQVXo) |
-| ![GuyInACube](https://i.ytimg.com/vi/T9O8qn8XOSQ/default.jpg) | **GuyInACube** | [Build Power BI Models on the Web! Mac users rejoice 🎉](https://www.youtube.com/watch?v=T9O8qn8XOSQ) |
-| ![GuyInACube](https://i.ytimg.com/vi/u9Z_KS79xEo/default.jpg) | **GuyInACube** | [REPLAY Microsoft Power BI / Fabric Q&amp;A - LIVE (Aug 23, 2025)](https://www.youtube.com/watch?v=u9Z_KS79xEo) |
-| ![GuyInACube](https://i.ytimg.com/vi/y7TCsbM73YU/default.jpg) | **GuyInACube** | [Stop Duplicating! Power BI Report in Two Workspaces](https://www.youtube.com/watch?v=y7TCsbM73YU) |
-| ![GuyInACube](https://i.ytimg.com/vi/8Yhc4j1N7Ns/default.jpg) | **GuyInACube** | [Something old is new again](https://www.youtube.com/watch?v=8Yhc4j1N7Ns) |
-| ![GuyInACube](https://i.ytimg.com/vi/w8BPHvcjCh8/default.jpg) | **GuyInACube** | [Power BI Hack: Swap Legend Fields Instantly via Field Parameters](https://www.youtube.com/watch?v=w8BPHvcjCh8) |
-| ![GuyInACube](https://i.ytimg.com/vi/IKVzJqrXIUE/default.jpg) | **GuyInACube** | [Have you tried Translytical Task Flows?](https://www.youtube.com/watch?v=IKVzJqrXIUE) |
-| ![GuyInACube](https://i.ytimg.com/vi/P-_cgcuiMdg/default.jpg) | **GuyInACube** | [Run Microsoft Fabric Notebooks in Parallel — No Pipeline Needed](https://www.youtube.com/watch?v=P-_cgcuiMdg) |
-| ![GuyInACube](https://i.ytimg.com/vi/gTZ8YKW425s/default.jpg) | **GuyInACube** | [Master Value Filter Behavior in Power BI Semantic Models](https://www.youtube.com/watch?v=gTZ8YKW425s) |
-| ![GuyInACube](https://i.ytimg.com/vi/91rU82qwPTU/default.jpg) | **GuyInACube** | [Microsoft Fabric Tags: The Metadata Superpower You’re Ignoring](https://www.youtube.com/watch?v=91rU82qwPTU) |
-| ![GuyInACube](https://i.ytimg.com/vi/NVyOR3zZxv0/default.jpg) | **GuyInACube** | [Automate Mail Merge with Power BI Paginated Reports in Microsoft Fabric](https://www.youtube.com/watch?v=NVyOR3zZxv0) |
-| ![GuyInACube](https://i.ytimg.com/vi/6gS7_ds5odE/default.jpg) | **GuyInACube** | [No Copilot? No Problem: Power Query&#39;s AI to the Rescue!](https://www.youtube.com/watch?v=6gS7_ds5odE) |
-| ![GuyInACube](https://i.ytimg.com/vi/00rPy4NrvLg/default.jpg) | **GuyInACube** | [Conquer Circular Dependencies: Sort Months Effortlessly in Power BI](https://www.youtube.com/watch?v=00rPy4NrvLg) |
-| ![GuyInACube](https://i.ytimg.com/vi/G6JslLzzOp0/default.jpg) | **GuyInACube** | [How I Fixed 1000+ Power BI Comments in ONE Day!](https://www.youtube.com/watch?v=G6JslLzzOp0) |
-| ![GuyInACube](https://i.ytimg.com/vi/tSihNwLsWWg/default.jpg) | **GuyInACube** | [REPLAY Microsoft Power BI / Fabric Q&amp;A - LIVE (Jan 25, 2025)](https://www.youtube.com/watch?v=tSihNwLsWWg) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/h1KGFLDluXI/default.jpg) | **MicrosoftFabric** | [Accelerating Data Engineering with Materialized Lake Views in Microsoft Fabric](https://www.youtube.com/watch?v=h1KGFLDluXI) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/DnPZHfrcvYU/default.jpg) | **MicrosoftFabric** | [MVP Tech Talk: Keep Your Data Flowing Even When the Lights Go Out](https://www.youtube.com/watch?v=DnPZHfrcvYU) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/RKslTaoVaGg/default.jpg) | **MicrosoftFabric** | [Fabric Update - February 2026](https://www.youtube.com/watch?v=RKslTaoVaGg) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/EQ1Oz9FaP2g/default.jpg) | **PragmaticWorks** | [Preview: Dynamics 365 Sales Beginner to Pro](https://www.youtube.com/watch?v=EQ1Oz9FaP2g) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/LkpIlaf2y9c/default.jpg) | **MicrosoftFabric** | [Clean Up Your Power BI Models Fast with Measure Killer | Ep. 41 | MVP](https://www.youtube.com/watch?v=LkpIlaf2y9c) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/H9g3Vfi9NWc/default.jpg) | **MicrosoftFabric** | [Partnering for Success: Profisee and Microsoft Fabric](https://www.youtube.com/watch?v=H9g3Vfi9NWc) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/ObIll4wC5iI/default.jpg) | **MicrosoftFabric** | [Exploring SQL Databases in Microsoft Fabric | Ep. 41 | MVP](https://www.youtube.com/watch?v=ObIll4wC5iI) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/YapQbuFUUNY/default.jpg) | **MicrosoftFabric** | [Streamline Data Engineering operations using Semantic Link](https://www.youtube.com/watch?v=YapQbuFUUNY) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/F59zX6y2MqA/default.jpg) | **MicrosoftFabric** | [Accelerate Data Science on trusted Semantic Models using Semantic Link](https://www.youtube.com/watch?v=F59zX6y2MqA) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/L6fmElJ3LE8/default.jpg) | **MicrosoftFabric** | [Automate Power BI tasks using Semantic Link](https://www.youtube.com/watch?v=L6fmElJ3LE8) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/TECa-66mgcE/default.jpg) | **MicrosoftFabric** | [FabCon TV: Cloud Accelerate Factory - Accelerating value with Microsoft Fabric](https://www.youtube.com/watch?v=TECa-66mgcE) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/TneXzxoM4-M/default.jpg) | **MicrosoftFabric** | [Semantic Link: Power BI + Notebooks in Fabric | Ep. 40 | MVP](https://www.youtube.com/watch?v=TneXzxoM4-M) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/AvgxYynucW0/default.jpg) | **MicrosoftFabric** | [FabCon + SQL Con 2026: Atlanta Preview | Ep. 39 | Event](https://www.youtube.com/watch?v=AvgxYynucW0) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/CpdkvhQ95Wc/default.jpg) | **MicrosoftFabric** | [FabCon TV: Study Smarter: How to Prep for Microsoft Fabric Exams](https://www.youtube.com/watch?v=CpdkvhQ95Wc) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/2hHmZk_gMjA/default.jpg) | **MicrosoftFabric** | [Join us for the first SQLCon in March 2026! | Microsoft SQL Community Conference](https://www.youtube.com/watch?v=2hHmZk_gMjA) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/vAOUzVkeM3w/default.jpg) | **MicrosoftFabric** | [Fabric Governance: Domains, Lineage &amp; Labels | Ep. 38 | MVP](https://www.youtube.com/watch?v=vAOUzVkeM3w) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/gbcj7I0OpcY/default.jpg) | **MicrosoftFabric** | [Fabric demo | An end-to-end tour of the OneLake catalog](https://www.youtube.com/watch?v=gbcj7I0OpcY) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/o5jKPT3ZNhA/default.jpg) | **MicrosoftFabric** | [Elevate Retail Intelligence with Microsoft Fabric IQ](https://www.youtube.com/watch?v=o5jKPT3ZNhA) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/gVKAwNpQfak/default.jpg) | **MicrosoftFabric** | [Fabric Update - January 2026](https://www.youtube.com/watch?v=gVKAwNpQfak) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/ADGyzUHsMU4/default.jpg) | **MicrosoftFabric** | [FabCon TV: Kim Manis - Day 2 Keynote Recap](https://www.youtube.com/watch?v=ADGyzUHsMU4) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/7fNiPAvG1Fs/default.jpg) | **MicrosoftFabric** | [A Metadata-Driven Architecture Using Microsoft Fabric](https://www.youtube.com/watch?v=7fNiPAvG1Fs) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/ul16PjHNiVs/default.jpg) | **MicrosoftFabric** | [Fabric Data Agents 101](https://www.youtube.com/watch?v=ul16PjHNiVs) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/MQkuVe-0ufw/default.jpg) | **MicrosoftFabric** | [FabCon TV: Shireesh Thota - Day 2 Keynote Recap](https://www.youtube.com/watch?v=MQkuVe-0ufw) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/seThNHG5yLk/default.jpg) | **MicrosoftFabric** | [AI‑Powered Power BI Visuals with Copilot | Ep. 37 | PM](https://www.youtube.com/watch?v=seThNHG5yLk) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/Bbhy2DxdDM4/default.jpg) | **MicrosoftFabric** | [Qcells unifies clean solar energy operations globally with Fabric](https://www.youtube.com/watch?v=Bbhy2DxdDM4) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/n8Sd_l7XBN4/default.jpg) | **MicrosoftFabric** | [Metadata‑Driven Architecture in Fabric | Ep. 36 | MVP](https://www.youtube.com/watch?v=n8Sd_l7XBN4) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/tWjvo8UD_xQ/default.jpg) | **PragmaticWorks** | [Finding Hidden Windows in Power BI!](https://www.youtube.com/watch?v=tWjvo8UD_xQ) |
