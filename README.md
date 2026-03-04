@@ -1,14 +1,14 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-03-03 01:44:18 UTC
+> **Last Sync Date:** 2026-03-04 01:27:22 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
+| ![SQLBI](https://i.ytimg.com/vi/QejXegBxb9E/default.jpg) | **SQLBI** | [Real estate with Synoptic Panel by OKVIZ](https://www.youtube.com/watch?v=QejXegBxb9E) |
 | ![SQLBI](https://i.ytimg.com/vi/FoHku9KsBaw/default.jpg) | **SQLBI** | [Understanding DATEADD parameters with calendar based time intelligence](https://www.youtube.com/watch?v=FoHku9KsBaw) |
 | ![SQLBI](https://i.ytimg.com/vi/B7BK8B9LKE4/default.jpg) | **SQLBI** | [Displaying injury data on the human body by using Synoptic Panel in Power BI](https://www.youtube.com/watch?v=B7BK8B9LKE4) |
-| ![SQLBI](https://i.ytimg.com/vi/v41Zal354hE/default.jpg) | **SQLBI** | [Show transaction details on matrix visual in Power BI](https://www.youtube.com/watch?v=v41Zal354hE) |
+| ![GuyInACube](https://i.ytimg.com/vi/t-vvbLE8pVE/default.jpg) | **GuyInACube** | [How does vague prompts affect Copilot? 🤔](https://www.youtube.com/watch?v=t-vvbLE8pVE) |
 | ![GuyInACube](https://i.ytimg.com/vi/_uixX5O4jJg/default.jpg) | **GuyInACube** | [Prompting for Analytics is Different!](https://www.youtube.com/watch?v=_uixX5O4jJg) |
 | ![GuyInACube](https://i.ytimg.com/vi/LCmrwMPDEZo/default.jpg) | **GuyInACube** | [Why the Same Prompt Gave Me Different Results in Power BI Copilot](https://www.youtube.com/watch?v=LCmrwMPDEZo) |
-| ![GuyInACube](https://i.ytimg.com/vi/ROnDcrEpgKc/default.jpg) | **GuyInACube** | [Stop Giving Workspace Access for Copilot!](https://www.youtube.com/watch?v=ROnDcrEpgKc) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/h1KGFLDluXI/default.jpg) | **MicrosoftFabric** | [Accelerating Data Engineering with Materialized Lake Views in Microsoft Fabric](https://www.youtube.com/watch?v=h1KGFLDluXI) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/DnPZHfrcvYU/default.jpg) | **MicrosoftFabric** | [MVP Tech Talk: Keep Your Data Flowing Even When the Lights Go Out](https://www.youtube.com/watch?v=DnPZHfrcvYU) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/RKslTaoVaGg/default.jpg) | **MicrosoftFabric** | [Fabric Update - February 2026](https://www.youtube.com/watch?v=RKslTaoVaGg) |
@@ -34,4 +34,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/seThNHG5yLk/default.jpg) | **MicrosoftFabric** | [AI‑Powered Power BI Visuals with Copilot | Ep. 37 | PM](https://www.youtube.com/watch?v=seThNHG5yLk) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/Bbhy2DxdDM4/default.jpg) | **MicrosoftFabric** | [Qcells unifies clean solar energy operations globally with Fabric](https://www.youtube.com/watch?v=Bbhy2DxdDM4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/n8Sd_l7XBN4/default.jpg) | **MicrosoftFabric** | [Metadata‑Driven Architecture in Fabric | Ep. 36 | MVP](https://www.youtube.com/watch?v=n8Sd_l7XBN4) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/tWjvo8UD_xQ/default.jpg) | **PragmaticWorks** | [Finding Hidden Windows in Power BI!](https://www.youtube.com/watch?v=tWjvo8UD_xQ) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/eyKxY27f08w/default.jpg) | **PragmaticWorks** | [What The Heck IS Agentic AI?](https://www.youtube.com/watch?v=eyKxY27f08w) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/u3WFTkPiXss/default.jpg) | **PragmaticWorks** | [Filtering Power BI Visuals Inside Your Canvas App!](https://www.youtube.com/watch?v=u3WFTkPiXss) |
