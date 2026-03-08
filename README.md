@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-03-07 01:24:25 UTC
+> **Last Sync Date:** 2026-03-08 01:41:55 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -14,4 +14,4 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/DnPZHfrcvYU/default.jpg) | **MicrosoftFabric** | [MVP Tech Talk: Keep Your Data Flowing Even When the Lights Go Out](https://www.youtube.com/watch?v=DnPZHfrcvYU) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/V6vXiJvRXRM/default.jpg) | **PragmaticWorks** | [Accidentally Deleted Your Power Query Settings? Get Them Back EASILY!](https://www.youtube.com/watch?v=V6vXiJvRXRM) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/Kmstf0XBhZI/default.jpg) | **PragmaticWorks** | [Prep Data for AI: Synonyms](https://www.youtube.com/watch?v=Kmstf0XBhZI) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/Z0uxD_mNM28/default.jpg) | **PragmaticWorks** | [Turn Your Fabric Capacities Off AUTOMATICALLY To Save Money!](https://www.youtube.com/watch?v=Z0uxD_mNM28) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/u3WFTkPiXss/default.jpg) | **PragmaticWorks** | [Filtering Power BI Visuals Inside Your Canvas App!](https://www.youtube.com/watch?v=u3WFTkPiXss) |
