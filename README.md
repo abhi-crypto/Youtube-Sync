@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-03-13 01:28:50 UTC
+> **Last Sync Date:** 2026-03-14 01:27:05 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,9 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/qWgt4-7tpGI/default.jpg) | **GuyInACube** | [Your Fabric Capacity Strategy Determines Everything](https://www.youtube.com/watch?v=qWgt4-7tpGI) |
 | ![GuyInACube](https://i.ytimg.com/vi/WaK-ncHB0Z0/default.jpg) | **GuyInACube** | [Do You Really Need Domains in Microsoft Fabric? An Architect’s Perspective](https://www.youtube.com/watch?v=WaK-ncHB0Z0) |
 | ![GuyInACube](https://i.ytimg.com/vi/zK0RDm4404Y/default.jpg) | **GuyInACube** | [Licenses explained in less than 1 minute 🔥🫡](https://www.youtube.com/watch?v=zK0RDm4404Y) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/GQ8W5AvjucE/default.jpg) | **MicrosoftFabric** | [Certification Exam Day Ready: Test-Taking Tips for Microsoft Fabric Success](https://www.youtube.com/watch?v=GQ8W5AvjucE) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/-iISc9-wheY/default_live.jpg) | **MicrosoftFabric** | [Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation](https://www.youtube.com/watch?v=-iISc9-wheY) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/z4lW1GycUg0/default.jpg) | **MicrosoftFabric** | [Getting Data from Anywhere with Shortcuts in Microsoft Fabric | Ep. 44 | MVP](https://www.youtube.com/watch?v=z4lW1GycUg0) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/-ipE6l8MUJM/default.jpg) | **MicrosoftFabric** | [Partnering for Success: Cloud Services](https://www.youtube.com/watch?v=-ipE6l8MUJM) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/NEjKF6pANTg/default.jpg) | **MicrosoftFabric** | [Real Real‑Time Analytics with Microsoft Fabric Eventhouse + KQL](https://www.youtube.com/watch?v=NEjKF6pANTg) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/wzaxP0soUIw/default.jpg) | **MicrosoftFabric** | [Power BI’s Next Act: From Dashboards to Dialogue with Data Crafters](https://www.youtube.com/watch?v=wzaxP0soUIw) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/QjaHZqQTfIo/default.jpg) | **PragmaticWorks** | [How to Filter Your Power BI Report Inside a Canvas App!](https://www.youtube.com/watch?v=QjaHZqQTfIo) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/Wb4-4qgwFAc/default.jpg) | **PragmaticWorks** | [Here&#39;s a Quick Breakdown of App Sizes in Power Apps!](https://www.youtube.com/watch?v=Wb4-4qgwFAc) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/o5gsQNjE0vo/default.jpg) | **PragmaticWorks** | [Free Live Course: Agentic Agents with Copilot Studio](https://www.youtube.com/watch?v=o5gsQNjE0vo) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/lETvKaO6wFQ/default.jpg) | **PragmaticWorks** | [Free Event: Dynamics 365 Sales Beginner to Pro](https://www.youtube.com/watch?v=lETvKaO6wFQ) |
