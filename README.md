@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-03-18 01:46:55 UTC
+> **Last Sync Date:** 2026-03-19 01:48:01 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,9 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/lzkhuwr8C1I/default.jpg) | **GuyInACube** | [BTS: FabCon / SQLCon Keynote buildout](https://www.youtube.com/watch?v=lzkhuwr8C1I) |
 | ![GuyInACube](https://i.ytimg.com/vi/6VrYBWrPFlw/default.jpg) | **GuyInACube** | [Fabric Map is here! 🤩 #powerbi #microsoftfabric](https://www.youtube.com/watch?v=6VrYBWrPFlw) |
 | ![GuyInACube](https://i.ytimg.com/vi/qWgt4-7tpGI/default.jpg) | **GuyInACube** | [Your Fabric Capacity Strategy Determines Everything](https://www.youtube.com/watch?v=qWgt4-7tpGI) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/-ipE6l8MUJM/default.jpg) | **MicrosoftFabric** | [Partnering for Success: Cloud Services](https://www.youtube.com/watch?v=-ipE6l8MUJM) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/NEjKF6pANTg/default.jpg) | **MicrosoftFabric** | [Real Real‑Time Analytics with Microsoft Fabric Eventhouse + KQL](https://www.youtube.com/watch?v=NEjKF6pANTg) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/wzaxP0soUIw/default.jpg) | **MicrosoftFabric** | [Power BI’s Next Act: From Dashboards to Dialogue with Data Crafters](https://www.youtube.com/watch?v=wzaxP0soUIw) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/xhrSMNNX5ho/default.jpg) | **MicrosoftFabric** | [Fabric Update - March 2026](https://www.youtube.com/watch?v=xhrSMNNX5ho) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/BnqpP0fS_jg/default.jpg) | **MicrosoftFabric** | [Introducing the Database Hub in Fabric](https://www.youtube.com/watch?v=BnqpP0fS_jg) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/inDJwbGr0xc/default.jpg) | **MicrosoftFabric** | [Empowering agents to act with Fabric data and operations agents](https://www.youtube.com/watch?v=inDJwbGr0xc) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/lvDgOey_U5M/default.jpg) | **PragmaticWorks** | [Horizontal Containers in Power Apps | Quick Breakdown!](https://www.youtube.com/watch?v=lvDgOey_U5M) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/8cTlknbwY8A/default.jpg) | **PragmaticWorks** | [Agentic AI with Power BI MCP and Claude](https://www.youtube.com/watch?v=8cTlknbwY8A) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/d35XDk5EnkI/default.jpg) | **PragmaticWorks** | [Container Controls in Power Apps are a GAME CHANGER!](https://www.youtube.com/watch?v=d35XDk5EnkI) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/GtIysBPLB_U/default.jpg) | **PragmaticWorks** | [Microsoft Viva Explained: What&#39;s in the Suite?](https://www.youtube.com/watch?v=GtIysBPLB_U) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/0429QpcbJwg/default.jpg) | **PragmaticWorks** | [Which Type of Gallery Should You Use to Display Data in Power Apps?](https://www.youtube.com/watch?v=0429QpcbJwg) |
