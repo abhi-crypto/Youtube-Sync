@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-03-27 01:52:24 UTC
+> **Last Sync Date:** 2026-03-28 01:44:15 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -14,4 +14,4 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/MqNnARdZ5Is/default.jpg) | **MicrosoftFabric** | [Partnering for Success: Avanade and Microsoft Fabric](https://www.youtube.com/watch?v=MqNnARdZ5Is) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/-JuPO512nN8/default.jpg) | **PragmaticWorks** | [Copilot in Power BI: Admin](https://www.youtube.com/watch?v=-JuPO512nN8) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/o1zmpjsBwus/default.jpg) | **PragmaticWorks** | [Bring Object Level Security into Power BI with the TMDL View! | Power BI Quick Tip](https://www.youtube.com/watch?v=o1zmpjsBwus) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/FjZd2nfDsto/default.jpg) | **PragmaticWorks** | [Why Does Copilot Answer The Same Question Differently in Power BI?](https://www.youtube.com/watch?v=FjZd2nfDsto) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/cEA0UUTZLIg/default.jpg) | **PragmaticWorks** | [Microsoft Viva 2026 Setup: Stop Wasting Licenses!](https://www.youtube.com/watch?v=cEA0UUTZLIg) |
