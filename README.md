@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-03-28 01:44:15 UTC
+> **Last Sync Date:** 2026-03-29 01:55:08 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -15,3 +15,6 @@
 | ![PragmaticWorks](https://i.ytimg.com/vi/-JuPO512nN8/default.jpg) | **PragmaticWorks** | [Copilot in Power BI: Admin](https://www.youtube.com/watch?v=-JuPO512nN8) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/o1zmpjsBwus/default.jpg) | **PragmaticWorks** | [Bring Object Level Security into Power BI with the TMDL View! | Power BI Quick Tip](https://www.youtube.com/watch?v=o1zmpjsBwus) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/cEA0UUTZLIg/default.jpg) | **PragmaticWorks** | [Microsoft Viva 2026 Setup: Stop Wasting Licenses!](https://www.youtube.com/watch?v=cEA0UUTZLIg) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/Yg2WMYhWb_E/default_live.jpg) | **PragmaticWorks** | [Preview: Agentic Agents with Copilot Studio](https://www.youtube.com/watch?v=Yg2WMYhWb_E) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/fsozDpVqAEo/default_live.jpg) | **PragmaticWorks** | [Free Live Course: Agentic Agents with Copilot Studio](https://www.youtube.com/watch?v=fsozDpVqAEo) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/GtIysBPLB_U/default.jpg) | **PragmaticWorks** | [Microsoft Viva Explained: Worth It or Waste?](https://www.youtube.com/watch?v=GtIysBPLB_U) |
