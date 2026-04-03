@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-02 01:50:08 UTC
+> **Last Sync Date:** 2026-04-03 01:51:25 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,9 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/G8rb437yClY/default.jpg) | **GuyInACube** | [Perform Matrix Magic in Power BI! 🪄 #powerbi](https://www.youtube.com/watch?v=G8rb437yClY) |
 | ![GuyInACube](https://i.ytimg.com/vi/qWgt4-7tpGI/default.jpg) | **GuyInACube** | [Your Fabric Capacity Strategy Determines Everything](https://www.youtube.com/watch?v=qWgt4-7tpGI) |
 | ![GuyInACube](https://i.ytimg.com/vi/PQsZedNFWPA/default.jpg) | **GuyInACube** | [Most Medallion Architectures in Microsoft Fabric Are Overbuilt](https://www.youtube.com/watch?v=PQsZedNFWPA) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/-iISc9-wheY/default.jpg) | **MicrosoftFabric** | [Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation](https://www.youtube.com/watch?v=-iISc9-wheY) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/wYYFCM6pcjU/default.jpg) | **MicrosoftFabric** | [Unifying the Data Estate for the next AI Frontier](https://www.youtube.com/watch?v=wYYFCM6pcjU) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/1m_i8DBgSGA/default.jpg) | **MicrosoftFabric** | [Inside Microsoft Fabric: Profisee Powering Trusted Data for the AI Era](https://www.youtube.com/watch?v=1m_i8DBgSGA) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/MqNnARdZ5Is/default.jpg) | **MicrosoftFabric** | [Partnering for Success: Avanade and Microsoft Fabric](https://www.youtube.com/watch?v=MqNnARdZ5Is) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/qbdXE59DgWY/default.jpg) | **PragmaticWorks** | [Copilot Agent Mode in Microsoft Word is a GAME CHANGER!](https://www.youtube.com/watch?v=qbdXE59DgWY) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/MXjWMCkoS1c/default.jpg) | **PragmaticWorks** | [How To Use Copilot, The RIGHT Way!](https://www.youtube.com/watch?v=MXjWMCkoS1c) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/ckBBDqGDrjA/default.jpg) | **PragmaticWorks** | [Viva Amplify Campaigns Made Simple](https://www.youtube.com/watch?v=ckBBDqGDrjA) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/o9tcSSMWRkU/default.jpg) | **PragmaticWorks** | [Setting Up Access to a Delta Share in Databricks | Quick Tip](https://www.youtube.com/watch?v=o9tcSSMWRkU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/Yg2WMYhWb_E/default.jpg) | **PragmaticWorks** | [Preview: Agentic Agents with Copilot Studio](https://www.youtube.com/watch?v=Yg2WMYhWb_E) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/a08t7W9Ul5s/default.jpg) | **PragmaticWorks** | [Delta Sharing - Databricks-to-Databricks Protocol](https://www.youtube.com/watch?v=a08t7W9Ul5s) |
