@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-06 01:58:09 UTC
+> **Last Sync Date:** 2026-04-07 01:54:13 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/kOrU8zdga00/default.jpg) | **MicrosoftFabric** | [Fabric Data Agents Explained: Building Secure, Data‑Grounded AI in Microsoft Fabric](https://www.youtube.com/watch?v=kOrU8zdga00) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/-iISc9-wheY/default.jpg) | **MicrosoftFabric** | [Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation](https://www.youtube.com/watch?v=-iISc9-wheY) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/wYYFCM6pcjU/default.jpg) | **MicrosoftFabric** | [Unifying the Data Estate for the next AI Frontier](https://www.youtube.com/watch?v=wYYFCM6pcjU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/Iordtwscj6c/default.jpg) | **PragmaticWorks** | [What is the Prep Data for AI Button in Power BI?](https://www.youtube.com/watch?v=Iordtwscj6c) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/Yg2WMYhWb_E/default.jpg) | **PragmaticWorks** | [Preview: Agentic Agents with Copilot Studio](https://www.youtube.com/watch?v=Yg2WMYhWb_E) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/a08t7W9Ul5s/default.jpg) | **PragmaticWorks** | [Delta Sharing - Databricks-to-Databricks Protocol](https://www.youtube.com/watch?v=a08t7W9Ul5s) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/fsozDpVqAEo/default_live.jpg) | **PragmaticWorks** | [Free Live Course: Agentic Agents with Copilot Studio](https://www.youtube.com/watch?v=fsozDpVqAEo) |
