@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-09 01:46:59 UTC
+> **Last Sync Date:** 2026-04-10 01:59:52 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/kOrU8zdga00/default.jpg) | **MicrosoftFabric** | [Fabric Data Agents Explained: Building Secure, Data‑Grounded AI in Microsoft Fabric](https://www.youtube.com/watch?v=kOrU8zdga00) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/-iISc9-wheY/default.jpg) | **MicrosoftFabric** | [Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation](https://www.youtube.com/watch?v=-iISc9-wheY) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/wYYFCM6pcjU/default.jpg) | **MicrosoftFabric** | [Unifying the Data Estate for the next AI Frontier](https://www.youtube.com/watch?v=wYYFCM6pcjU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/ZLRULOK2Dpo/default.jpg) | **PragmaticWorks** | [Assigning Workspaces in Microsoft Fabric is EASY!](https://www.youtube.com/watch?v=ZLRULOK2Dpo) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/HZTf4Z5SUlE/default.jpg) | **PragmaticWorks** | [Learn The Ins and Outs of Visual Defaults in Power BI Reports!](https://www.youtube.com/watch?v=HZTf4Z5SUlE) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/V0xD3rD5IrY/default.jpg) | **PragmaticWorks** | [How to Create a Fabric Capacity for Copilot! | Quick Tip](https://www.youtube.com/watch?v=V0xD3rD5IrY) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/ARZt9K1HiOU/default.jpg) | **PragmaticWorks** | [Here&#39;s The Requirements You Need to Know to Use Copilot in Microsoft Fabric!](https://www.youtube.com/watch?v=ARZt9K1HiOU) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/AwjjSkNoqyk/default.jpg) | **PragmaticWorks** | [How Viva Insights Helps You Work Smarter](https://www.youtube.com/watch?v=AwjjSkNoqyk) |
