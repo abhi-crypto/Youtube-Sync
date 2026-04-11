@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-10 01:59:52 UTC
+> **Last Sync Date:** 2026-04-11 01:49:20 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,9 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/PpjzXwzRa14/default.jpg) | **GuyInACube** | [Fabric AI Functions: Run LLM Workflows in 3 Lines of Code!](https://www.youtube.com/watch?v=PpjzXwzRa14) |
 | ![GuyInACube](https://i.ytimg.com/vi/G8rb437yClY/default.jpg) | **GuyInACube** | [Perform Matrix Magic in Power BI! 🪄 #powerbi](https://www.youtube.com/watch?v=G8rb437yClY) |
 | ![GuyInACube](https://i.ytimg.com/vi/qWgt4-7tpGI/default.jpg) | **GuyInACube** | [Your Fabric Capacity Strategy Determines Everything](https://www.youtube.com/watch?v=qWgt4-7tpGI) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/kOrU8zdga00/default.jpg) | **MicrosoftFabric** | [Fabric Data Agents Explained: Building Secure, Data‑Grounded AI in Microsoft Fabric](https://www.youtube.com/watch?v=kOrU8zdga00) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/-iISc9-wheY/default.jpg) | **MicrosoftFabric** | [Azure Decoded: Ground AI Apps with Fabric IQ’s Semantic Foundation](https://www.youtube.com/watch?v=-iISc9-wheY) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/wYYFCM6pcjU/default.jpg) | **MicrosoftFabric** | [Unifying the Data Estate for the next AI Frontier](https://www.youtube.com/watch?v=wYYFCM6pcjU) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/yB0oA5Y6Vq8/default.jpg) | **MicrosoftFabric** | [AI Innovation on the Cutting Edge: Real-Time Models, Multi-Agent Systems, and Spacecraft Interaction](https://www.youtube.com/watch?v=yB0oA5Y6Vq8) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/YI6WPoERg4o/default.jpg) | **MicrosoftFabric** | [3 Ways to Optimize Spark in Microsoft Fabric: Faster Jobs, Lower Costs](https://www.youtube.com/watch?v=YI6WPoERg4o) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/eeWTCEnOq0c/default.jpg) | **MicrosoftFabric** | [Materialized Lake Views in Microsoft Fabric: Simplifying Data Pipelines with SQL | Episode 51 | MVP](https://www.youtube.com/watch?v=eeWTCEnOq0c) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/b6znUoZCll4/default.jpg) | **PragmaticWorks** | [What Tenant Setting Are Required to Run Copilot in Microsoft Fabric?](https://www.youtube.com/watch?v=b6znUoZCll4) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/ZLRULOK2Dpo/default.jpg) | **PragmaticWorks** | [Assigning Workspaces in Microsoft Fabric is EASY!](https://www.youtube.com/watch?v=ZLRULOK2Dpo) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/HZTf4Z5SUlE/default.jpg) | **PragmaticWorks** | [Learn The Ins and Outs of Visual Defaults in Power BI Reports!](https://www.youtube.com/watch?v=HZTf4Z5SUlE) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/V0xD3rD5IrY/default.jpg) | **PragmaticWorks** | [How to Create a Fabric Capacity for Copilot! | Quick Tip](https://www.youtube.com/watch?v=V0xD3rD5IrY) |
