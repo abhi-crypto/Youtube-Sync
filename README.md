@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-12 02:01:25 UTC
+> **Last Sync Date:** 2026-04-13 02:05:48 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/YI6WPoERg4o/default.jpg) | **MicrosoftFabric** | [3 Ways to Optimize Spark in Microsoft Fabric: Faster Jobs, Lower Costs](https://www.youtube.com/watch?v=YI6WPoERg4o) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/eeWTCEnOq0c/default.jpg) | **MicrosoftFabric** | [Materialized Lake Views in Microsoft Fabric: Simplifying Data Pipelines with SQL | Episode 51 | MVP](https://www.youtube.com/watch?v=eeWTCEnOq0c) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/b6znUoZCll4/default.jpg) | **PragmaticWorks** | [What Tenant Setting Are Required to Run Copilot in Microsoft Fabric?](https://www.youtube.com/watch?v=b6znUoZCll4) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/ZLRULOK2Dpo/default.jpg) | **PragmaticWorks** | [Assigning Workspaces in Microsoft Fabric is EASY!](https://www.youtube.com/watch?v=ZLRULOK2Dpo) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/HZTf4Z5SUlE/default.jpg) | **PragmaticWorks** | [Learn The Ins and Outs of Visual Defaults in Power BI Reports!](https://www.youtube.com/watch?v=HZTf4Z5SUlE) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/V0xD3rD5IrY/default.jpg) | **PragmaticWorks** | [How to Create a Fabric Capacity for Copilot! | Quick Tip](https://www.youtube.com/watch?v=V0xD3rD5IrY) |
