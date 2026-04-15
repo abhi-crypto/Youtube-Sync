@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-14 02:00:56 UTC
+> **Last Sync Date:** 2026-04-15 01:57:47 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,5 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/yB0oA5Y6Vq8/default.jpg) | **MicrosoftFabric** | [AI Innovation on the Cutting Edge: Real-Time Models, Multi-Agent Systems, and Spacecraft Interaction](https://www.youtube.com/watch?v=yB0oA5Y6Vq8) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/YI6WPoERg4o/default.jpg) | **MicrosoftFabric** | [3 Ways to Optimize Spark in Microsoft Fabric: Faster Jobs, Lower Costs](https://www.youtube.com/watch?v=YI6WPoERg4o) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/eeWTCEnOq0c/default.jpg) | **MicrosoftFabric** | [Materialized Lake Views in Microsoft Fabric: Simplifying Data Pipelines with SQL | Episode 51 | MVP](https://www.youtube.com/watch?v=eeWTCEnOq0c) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/yLjTsKL0XjQ/default.jpg) | **PragmaticWorks** | [How to EASILY Prevent Out-of-Scope Questions in Copilot Studio!](https://www.youtube.com/watch?v=yLjTsKL0XjQ) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/KJ5ATK9eLP8/default.jpg) | **PragmaticWorks** | [Viva Engage 101: Building Community at Work](https://www.youtube.com/watch?v=KJ5ATK9eLP8) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/w54u2aQ9iqQ/default.jpg) | **PragmaticWorks** | [How to Enable Modern Visual Defaults in Power BI | NEW FEATURE](https://www.youtube.com/watch?v=w54u2aQ9iqQ) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/fsozDpVqAEo/default_live.jpg) | **PragmaticWorks** | [Free Live Course: Agentic Agents with Copilot Studio](https://www.youtube.com/watch?v=fsozDpVqAEo) |
