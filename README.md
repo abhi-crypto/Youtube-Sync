@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-19 02:05:35 UTC
+> **Last Sync Date:** 2026-04-20 02:06:40 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,4 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/yB0oA5Y6Vq8/default.jpg) | **MicrosoftFabric** | [AI Innovation on the Cutting Edge: Real-Time Models, Multi-Agent Systems, and Spacecraft Interaction](https://www.youtube.com/watch?v=yB0oA5Y6Vq8) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/YI6WPoERg4o/default.jpg) | **MicrosoftFabric** | [3 Ways to Optimize Spark in Microsoft Fabric: Faster Jobs, Lower Costs](https://www.youtube.com/watch?v=YI6WPoERg4o) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/25kL9sx2MYE/default.jpg) | **PragmaticWorks** | [To Copy Data or Query Live in Power BI - That is the Question!](https://www.youtube.com/watch?v=25kL9sx2MYE) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/NGDuAI9oZiU/default.jpg) | **PragmaticWorks** | [What Happened to Your Measures and Columns? | Quick Peek at Object Level Security in Power BI](https://www.youtube.com/watch?v=NGDuAI9oZiU) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/fsozDpVqAEo/default.jpg) | **PragmaticWorks** | [🚀 How to Build Autonomous &quot;Agentic Agents&quot; in Copilot Studio (Full Guide)](https://www.youtube.com/watch?v=fsozDpVqAEo) |
