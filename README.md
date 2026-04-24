@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-23 02:04:52 UTC
+> **Last Sync Date:** 2026-04-24 02:05:16 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/TDatHeKSa6c/default.jpg) | **MicrosoftFabric** | [FabCon TV: Leaders in Focus: Amir Netz](https://www.youtube.com/watch?v=TDatHeKSa6c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/ao_J6R07gCo/default.jpg) | **MicrosoftFabric** | [Transitioning from SQL Server data Warehousing to Spark Lakehouse](https://www.youtube.com/watch?v=ao_J6R07gCo) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/yB0oA5Y6Vq8/default.jpg) | **MicrosoftFabric** | [AI Innovation on the Cutting Edge: Real-Time Models, Multi-Agent Systems, and Spacecraft Interaction](https://www.youtube.com/watch?v=yB0oA5Y6Vq8) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/vJ0a9PGHARc/default.jpg) | **PragmaticWorks** | [Power BI Desktop Vs Power BI Service - What&#39;s the Difference?](https://www.youtube.com/watch?v=vJ0a9PGHARc) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/-XwHbcJc624/default.jpg) | **PragmaticWorks** | [Chat with your Data - Data Schema in Power BI](https://www.youtube.com/watch?v=-XwHbcJc624) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/FJnLlPY2rsY/default.jpg) | **PragmaticWorks** | [What The Heck Are Implicit Measures in Power BI!?](https://www.youtube.com/watch?v=FJnLlPY2rsY) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/j1ILl1oNlsM/default.jpg) | **PragmaticWorks** | [How to Prevent Copilot from Using Your Columns, Tables, or Measures in Chat With Your Data!](https://www.youtube.com/watch?v=j1ILl1oNlsM) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/hLM4LSd5xnQ/default.jpg) | **PragmaticWorks** | [Creating a Power Page with Claude - Session 2: Creating the Site](https://www.youtube.com/watch?v=hLM4LSd5xnQ) |
