@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-25 01:55:10 UTC
+> **Last Sync Date:** 2026-04-26 02:08:49 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -14,4 +14,3 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/ao_J6R07gCo/default.jpg) | **MicrosoftFabric** | [Transitioning from SQL Server data Warehousing to Spark Lakehouse](https://www.youtube.com/watch?v=ao_J6R07gCo) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/vJ0a9PGHARc/default.jpg) | **PragmaticWorks** | [Power BI Desktop Vs Power BI Service - What&#39;s the Difference?](https://www.youtube.com/watch?v=vJ0a9PGHARc) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/-XwHbcJc624/default.jpg) | **PragmaticWorks** | [Chat with your Data - Data Schema in Power BI](https://www.youtube.com/watch?v=-XwHbcJc624) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/FJnLlPY2rsY/default.jpg) | **PragmaticWorks** | [What The Heck Are Implicit Measures in Power BI!?](https://www.youtube.com/watch?v=FJnLlPY2rsY) |
