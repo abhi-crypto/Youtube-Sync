@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-04-27 02:10:59 UTC
+> **Last Sync Date:** 2026-04-28 02:26:37 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,4 +12,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/cew2HY361Ns/default.jpg) | **MicrosoftFabric** | [How Coca‑Cola Engineers Media Analytics on Fabric](https://www.youtube.com/watch?v=cew2HY361Ns) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/TDatHeKSa6c/default.jpg) | **MicrosoftFabric** | [FabCon TV: Leaders in Focus: Amir Netz](https://www.youtube.com/watch?v=TDatHeKSa6c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/ao_J6R07gCo/default.jpg) | **MicrosoftFabric** | [Transitioning from SQL Server data Warehousing to Spark Lakehouse](https://www.youtube.com/watch?v=ao_J6R07gCo) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/-XwHbcJc624/default.jpg) | **PragmaticWorks** | [Chat with your Data - Data Schema in Power BI](https://www.youtube.com/watch?v=-XwHbcJc624) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/hLM4LSd5xnQ/default.jpg) | **PragmaticWorks** | [Creating a Power Page with Claude - Session 2: Creating the Site](https://www.youtube.com/watch?v=hLM4LSd5xnQ) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/Hisv23A97Fc/default.jpg) | **PragmaticWorks** | [Creating a Power Page with Claude - Session 1: Installing the Prerequisites](https://www.youtube.com/watch?v=Hisv23A97Fc) |
