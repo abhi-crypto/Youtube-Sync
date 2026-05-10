@@ -1,11 +1,11 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-09 02:24:49 UTC
+> **Last Sync Date:** 2026-05-10 02:27:44 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
+| ![SQLBI](https://i.ytimg.com/vi/j475-FO9kaQ/default.jpg) | **SQLBI** | [Behind the scenes of our 30-hour video course Pt.4](https://www.youtube.com/watch?v=j475-FO9kaQ) |
 | ![SQLBI](https://i.ytimg.com/vi/E0KNojT3hwA/default.jpg) | **SQLBI** | [Filtering measures through slicers](https://www.youtube.com/watch?v=E0KNojT3hwA) |
 | ![SQLBI](https://i.ytimg.com/vi/uxn-WJr1qyM/default.jpg) | **SQLBI** | [Behind the scenes of our 30-hour video course pt.3](https://www.youtube.com/watch?v=uxn-WJr1qyM) |
-| ![SQLBI](https://i.ytimg.com/vi/8QnWmmpjizs/default.jpg) | **SQLBI** | [Behind the scenes of our 30-hour video course pt.2](https://www.youtube.com/watch?v=8QnWmmpjizs) |
 | ![GuyInACube](https://i.ytimg.com/vi/bhToFEBxrXA/default.jpg) | **GuyInACube** | [Do You Really Need a Silver Layer in Microsoft Fabric? | Architecture Debate](https://www.youtube.com/watch?v=bhToFEBxrXA) |
 | ![GuyInACube](https://i.ytimg.com/vi/14xoumEm6wA/default.jpg) | **GuyInACube** | [A Better Way to Handle Power BI Report Design! (Organizational Themes)](https://www.youtube.com/watch?v=14xoumEm6wA) |
 | ![GuyInACube](https://i.ytimg.com/vi/PpjzXwzRa14/default.jpg) | **GuyInACube** | [Fabric AI Functions: Run LLM Workflows in 3 Lines of Code!](https://www.youtube.com/watch?v=PpjzXwzRa14) |
