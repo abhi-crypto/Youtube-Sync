@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-11 02:36:50 UTC
+> **Last Sync Date:** 2026-05-12 02:30:14 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,4 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/sywHZsBS6E8/default.jpg) | **MicrosoftFabric** | [Understanding Spark Pools, Capacity, and Notebooks in Microsoft Fabric](https://www.youtube.com/watch?v=sywHZsBS6E8) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/vPp2Kw1X060/default.jpg) | **MicrosoftFabric** | [Real‑Time Intelligence Across Industries with Microsoft Fabric](https://www.youtube.com/watch?v=vPp2Kw1X060) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/ICLtIq2wuZo/default.jpg) | **MicrosoftFabric** | [FabCon TV: Databricks + Fabric](https://www.youtube.com/watch?v=ICLtIq2wuZo) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/Y_wR0A4MrOU/default.jpg) | **PragmaticWorks** | [What is JSON in Power Automate?](https://www.youtube.com/watch?v=Y_wR0A4MrOU) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/xKrkIlpkxBw/default.jpg) | **PragmaticWorks** | [What Are Variables in Power Automate?](https://www.youtube.com/watch?v=xKrkIlpkxBw) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/FVgS8cNOI2g/default_live.jpg) | **PragmaticWorks** | [Intergalactic Learn With The Nerds Data Modeling - The Star Schema](https://www.youtube.com/watch?v=FVgS8cNOI2g) |
