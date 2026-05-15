@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-14 02:37:07 UTC
+> **Last Sync Date:** 2026-05-15 02:37:37 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/GabXER2UUCg/default.jpg) | **MicrosoftFabric** | [Why Unstructured Data Is the Bottleneck for Enterprise AI](https://www.youtube.com/watch?v=GabXER2UUCg) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/rySVsmGtaxc/default.jpg) | **MicrosoftFabric** | [UNC Health’s Data Modernization Journey](https://www.youtube.com/watch?v=rySVsmGtaxc) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/sywHZsBS6E8/default.jpg) | **MicrosoftFabric** | [Understanding Spark Pools, Capacity, and Notebooks in Microsoft Fabric](https://www.youtube.com/watch?v=sywHZsBS6E8) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/g3CAoWwv6NE/default.jpg) | **PragmaticWorks** | [Managed Vs External Tables in Databricks - Which One To Use?](https://www.youtube.com/watch?v=g3CAoWwv6NE) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/11h86wq6WWw/default.jpg) | **PragmaticWorks** | [SCD Type 2 in Fabric Copy Job (Lakehouse) | No Code Demo](https://www.youtube.com/watch?v=11h86wq6WWw) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/IYOkn0Xsglk/default.jpg) | **PragmaticWorks** | [Stop Wasting Money On Expensive Queries in Databricks!](https://www.youtube.com/watch?v=IYOkn0Xsglk) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/MFV9OtHK5Uw/default.jpg) | **PragmaticWorks** | [What is a Connection Reference In The Power Platform?](https://www.youtube.com/watch?v=MFV9OtHK5Uw) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/C6YrbW9zcTI/default.jpg) | **PragmaticWorks** | [What are Databricks AI/BI Dashboards? | Getting Started](https://www.youtube.com/watch?v=C6YrbW9zcTI) |
