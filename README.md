@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-15 02:37:37 UTC
+> **Last Sync Date:** 2026-05-16 02:27:29 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,9 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/7xRGgo0UIwc/default.jpg) | **GuyInACube** | [Did you know about AI functions?](https://www.youtube.com/watch?v=7xRGgo0UIwc) |
 | ![GuyInACube](https://i.ytimg.com/vi/PpjzXwzRa14/default.jpg) | **GuyInACube** | [Fabric AI Functions: Run LLM Workflows in 3 Lines of Code!](https://www.youtube.com/watch?v=PpjzXwzRa14) |
 | ![GuyInACube](https://i.ytimg.com/vi/G8rb437yClY/default.jpg) | **GuyInACube** | [Perform Matrix Magic in Power BI! 🪄 #powerbi](https://www.youtube.com/watch?v=G8rb437yClY) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/gpFhk4vXR9c/default.jpg) | **MicrosoftFabric** | [How Vanguard Modernized Analytics with Microsoft Fabric](https://www.youtube.com/watch?v=gpFhk4vXR9c) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/8GUlLSS3kEo/default.jpg) | **MicrosoftFabric** | [Microsoft Fabric Eventhouse Explained: Real-Time KQL Data at Blazing Speed](https://www.youtube.com/watch?v=8GUlLSS3kEo) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/GabXER2UUCg/default.jpg) | **MicrosoftFabric** | [Why Unstructured Data Is the Bottleneck for Enterprise AI](https://www.youtube.com/watch?v=GabXER2UUCg) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/rySVsmGtaxc/default.jpg) | **MicrosoftFabric** | [UNC Health’s Data Modernization Journey](https://www.youtube.com/watch?v=rySVsmGtaxc) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/sywHZsBS6E8/default.jpg) | **MicrosoftFabric** | [Understanding Spark Pools, Capacity, and Notebooks in Microsoft Fabric](https://www.youtube.com/watch?v=sywHZsBS6E8) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/4YmYo3dcriE/default.jpg) | **PragmaticWorks** | [How to Connect Your Databricks Unity Catalog to Power BI!](https://www.youtube.com/watch?v=4YmYo3dcriE) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/g3CAoWwv6NE/default.jpg) | **PragmaticWorks** | [Managed Vs External Tables in Databricks - Which One To Use?](https://www.youtube.com/watch?v=g3CAoWwv6NE) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/11h86wq6WWw/default.jpg) | **PragmaticWorks** | [SCD Type 2 in Fabric Copy Job (Lakehouse) | No Code Demo](https://www.youtube.com/watch?v=11h86wq6WWw) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/IYOkn0Xsglk/default.jpg) | **PragmaticWorks** | [Stop Wasting Money On Expensive Queries in Databricks!](https://www.youtube.com/watch?v=IYOkn0Xsglk) |
