@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-17 02:34:50 UTC
+> **Last Sync Date:** 2026-05-18 02:45:01 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/8GUlLSS3kEo/default.jpg) | **MicrosoftFabric** | [Microsoft Fabric Eventhouse Explained: Real-Time KQL Data at Blazing Speed](https://www.youtube.com/watch?v=8GUlLSS3kEo) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/GabXER2UUCg/default.jpg) | **MicrosoftFabric** | [Why Unstructured Data Is the Bottleneck for Enterprise AI](https://www.youtube.com/watch?v=GabXER2UUCg) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/4YmYo3dcriE/default.jpg) | **PragmaticWorks** | [How to Connect Your Databricks Unity Catalog to Power BI!](https://www.youtube.com/watch?v=4YmYo3dcriE) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/g3CAoWwv6NE/default.jpg) | **PragmaticWorks** | [Managed Vs External Tables in Databricks - Which One To Use?](https://www.youtube.com/watch?v=g3CAoWwv6NE) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/11h86wq6WWw/default.jpg) | **PragmaticWorks** | [SCD Type 2 in Fabric Copy Job (Lakehouse) | No Code Demo](https://www.youtube.com/watch?v=11h86wq6WWw) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/mr6URCf7E6w/default_live.jpg) | **PragmaticWorks** | [Intergalactic Learn With The Nerds Microsoft Fabric for Power BI Users](https://www.youtube.com/watch?v=mr6URCf7E6w) |
