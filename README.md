@@ -1,17 +1,16 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-19 02:42:40 UTC
+> **Last Sync Date:** 2026-05-20 02:43:01 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
+| ![SQLBI](https://i.ytimg.com/vi/dTyZMHR8ZDo/default.jpg) | **SQLBI** | [Introducing user-aware calculated columns in Power BI](https://www.youtube.com/watch?v=dTyZMHR8ZDo) |
 | ![SQLBI](https://i.ytimg.com/vi/j475-FO9kaQ/default.jpg) | **SQLBI** | [Behind the scenes of our 30-hour video course Pt.4](https://www.youtube.com/watch?v=j475-FO9kaQ) |
 | ![SQLBI](https://i.ytimg.com/vi/E0KNojT3hwA/default.jpg) | **SQLBI** | [Filtering measures through slicers](https://www.youtube.com/watch?v=E0KNojT3hwA) |
-| ![SQLBI](https://i.ytimg.com/vi/uxn-WJr1qyM/default.jpg) | **SQLBI** | [Behind the scenes of our 30-hour video course pt.3](https://www.youtube.com/watch?v=uxn-WJr1qyM) |
-| ![GuyInACube](https://i.ytimg.com/vi/PpjzXwzRa14/default.jpg) | **GuyInACube** | [Fabric AI Functions: Run LLM Workflows in 3 Lines of Code!](https://www.youtube.com/watch?v=PpjzXwzRa14) |
-| ![GuyInACube](https://i.ytimg.com/vi/G8rb437yClY/default.jpg) | **GuyInACube** | [Perform Matrix Magic in Power BI! 🪄 #powerbi](https://www.youtube.com/watch?v=G8rb437yClY) |
-| ![GuyInACube](https://i.ytimg.com/vi/qWgt4-7tpGI/default.jpg) | **GuyInACube** | [Your Fabric Capacity Strategy Determines Everything](https://www.youtube.com/watch?v=qWgt4-7tpGI) |
+| ![GuyInACube](https://i.ytimg.com/vi/vjcWToSAlZ8/default.jpg) | **GuyInACube** | [Make your Power BI mobile reports POP](https://www.youtube.com/watch?v=vjcWToSAlZ8) |
+| ![GuyInACube](https://i.ytimg.com/vi/fSHcLxA9rY4/default.jpg) | **GuyInACube** | [Dynamic labels in Power BI using DAX](https://www.youtube.com/watch?v=fSHcLxA9rY4) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/kfnH_Xfi_fo/default.jpg) | **MicrosoftFabric** | [Analyze Dataverse and Dynamics 365 Data with Fabric](https://www.youtube.com/watch?v=kfnH_Xfi_fo) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/pqYJVZXTAcE/default.jpg) | **MicrosoftFabric** | [Introducing Microsoft Fabric Jumpstart](https://www.youtube.com/watch?v=pqYJVZXTAcE) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/gpFhk4vXR9c/default.jpg) | **MicrosoftFabric** | [How Vanguard Modernized Analytics with Microsoft Fabric](https://www.youtube.com/watch?v=gpFhk4vXR9c) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/8GUlLSS3kEo/default.jpg) | **MicrosoftFabric** | [Microsoft Fabric Eventhouse Explained: Real-Time KQL Data at Blazing Speed](https://www.youtube.com/watch?v=8GUlLSS3kEo) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/GabXER2UUCg/default.jpg) | **MicrosoftFabric** | [Why Unstructured Data Is the Bottleneck for Enterprise AI](https://www.youtube.com/watch?v=GabXER2UUCg) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/SEKZluhqpYM/default.jpg) | **PragmaticWorks** | [What The Heck Are Power BI Workspace Apps?](https://www.youtube.com/watch?v=SEKZluhqpYM) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/FVgS8cNOI2g/default.jpg) | **PragmaticWorks** | [Intergalactic Learn With The Nerds Data Modeling - The Star Schema](https://www.youtube.com/watch?v=FVgS8cNOI2g) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/4YmYo3dcriE/default.jpg) | **PragmaticWorks** | [How to Connect Your Databricks Unity Catalog to Power BI!](https://www.youtube.com/watch?v=4YmYo3dcriE) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/j732KIbeoeU/default.jpg) | **PragmaticWorks** | [Power BI Workspace Roles - Which One Is Right For You?](https://www.youtube.com/watch?v=j732KIbeoeU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/ezwlEZPbS_E/default.jpg) | **PragmaticWorks** | [Intergalactic Learn With The Nerds - Choosing the Right Way to Load Data in Microsoft Fabric](https://www.youtube.com/watch?v=ezwlEZPbS_E) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/h1PwHFbFeq8/default.jpg) | **PragmaticWorks** | [SCD Type 2 in Fabric Warehouse With Surrogate Keys (Kimball Pattern)](https://www.youtube.com/watch?v=h1PwHFbFeq8) |
