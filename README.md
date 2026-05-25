@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-24 02:42:16 UTC
+> **Last Sync Date:** 2026-05-25 02:51:21 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/pqYJVZXTAcE/default.jpg) | **MicrosoftFabric** | [Introducing Microsoft Fabric Jumpstart](https://www.youtube.com/watch?v=pqYJVZXTAcE) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/gpFhk4vXR9c/default.jpg) | **MicrosoftFabric** | [How Vanguard Modernized Analytics with Microsoft Fabric](https://www.youtube.com/watch?v=gpFhk4vXR9c) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/Km6QfCJweoI/default.jpg) | **PragmaticWorks** | [Merge vs Append Queries | What&#39;s The Difference?](https://www.youtube.com/watch?v=Km6QfCJweoI) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/65I9udNVFw4/default.jpg) | **PragmaticWorks** | [Create a Databricks AI/BI Dashboard Custom Calculation!](https://www.youtube.com/watch?v=65I9udNVFw4) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/eMxfsDgxjw0/default.jpg) | **PragmaticWorks** | [Free Live Course: Chat With Your Data Using Fabric Data Agents](https://www.youtube.com/watch?v=eMxfsDgxjw0) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/5NME9nuH3us/default.jpg) | **PragmaticWorks** | [Intergalactic Learn With The Nerds - Power Platform Playbook for Beginners](https://www.youtube.com/watch?v=5NME9nuH3us) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/mr6URCf7E6w/default.jpg) | **PragmaticWorks** | [Intergalactic Learn With The Nerds Microsoft Fabric for Power BI Users](https://www.youtube.com/watch?v=mr6URCf7E6w) |
