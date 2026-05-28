@@ -1,12 +1,12 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-05-27 02:49:47 UTC
+> **Last Sync Date:** 2026-05-28 02:37:06 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
 | ![SQLBI](https://i.ytimg.com/vi/i4DXZc72I48/default.jpg) | **SQLBI** | [Parameter types in DAX user defined functions UDF](https://www.youtube.com/watch?v=i4DXZc72I48) |
-| ![SQLBI](https://i.ytimg.com/vi/LttGF0D-YBM/default.jpg) | **SQLBI** | [DAX User-Defined Functions vs Calculation Groups](https://www.youtube.com/watch?v=LttGF0D-YBM) |
-| ![SQLBI](https://i.ytimg.com/vi/Ve47HWR5Imw/default.jpg) | **SQLBI** | [Employee workstations with Synoptic Panel by OKVIZ](https://www.youtube.com/watch?v=Ve47HWR5Imw) |
-| ![GuyInACube](https://i.ytimg.com/vi/ea6xGJv0b-w/default.jpg) | **GuyInACube** | [Governance made 100x easier with the Fabric Core MCP Server (Installation guide)](https://www.youtube.com/watch?v=ea6xGJv0b-w) |
+| ![SQLBI](https://i.ytimg.com/vi/j475-FO9kaQ/default.jpg) | **SQLBI** | [Behind the scenes of our 30-hour video course Pt.4](https://www.youtube.com/watch?v=j475-FO9kaQ) |
+| ![SQLBI](https://i.ytimg.com/vi/E0KNojT3hwA/default.jpg) | **SQLBI** | [Filtering measures through slicers](https://www.youtube.com/watch?v=E0KNojT3hwA) |
+| ![GuyInACube](https://i.ytimg.com/vi/V4AGxzHbb1I/default.jpg) | **GuyInACube** | [Power BI Desktop Just Got Version History 🤯](https://www.youtube.com/watch?v=V4AGxzHbb1I) |
 | ![GuyInACube](https://i.ytimg.com/vi/PpjzXwzRa14/default.jpg) | **GuyInACube** | [Fabric AI Functions: Run LLM Workflows in 3 Lines of Code!](https://www.youtube.com/watch?v=PpjzXwzRa14) |
 | ![GuyInACube](https://i.ytimg.com/vi/qWgt4-7tpGI/default.jpg) | **GuyInACube** | [Your Fabric Capacity Strategy Determines Everything](https://www.youtube.com/watch?v=qWgt4-7tpGI) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/3O08_v_k5Cs/default.jpg) | **MicrosoftFabric** | [FabCon TV: Leaders in Focus: Kim Manis](https://www.youtube.com/watch?v=3O08_v_k5Cs) |
