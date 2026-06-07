@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-06-06 02:36:58 UTC
+> **Last Sync Date:** 2026-06-07 02:55:31 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/bub3wEmDmB8/default.jpg) | **MicrosoftFabric** | [Real-Time Intelligence: Building Event-Driven AI Apps and Agents](https://www.youtube.com/watch?v=bub3wEmDmB8) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/tRhWvOryRWY/default.jpg) | **MicrosoftFabric** | [Securing, scaling, and sustaining your data estate in Microsoft Fabric](https://www.youtube.com/watch?v=tRhWvOryRWY) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/IiKlGrA3oZY/default.jpg) | **MicrosoftFabric** | [Microsoft SQL leadership discusses what’s new in 2026 | FabCon Data Exposed Exclusive](https://www.youtube.com/watch?v=IiKlGrA3oZY) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/flmGXAeMUo8/default.jpg) | **PragmaticWorks** | [Developer Environment in Power Apps Breakdown!](https://www.youtube.com/watch?v=flmGXAeMUo8) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/yRiDYimISnc/default.jpg) | **PragmaticWorks** | [The Default Environment in the Power Platform - What Is It?](https://www.youtube.com/watch?v=yRiDYimISnc) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/o3Ewx4N8PAc/default.jpg) | **PragmaticWorks** | [Preview: Chat With Your Data Using Fabric Data Agents](https://www.youtube.com/watch?v=o3Ewx4N8PAc) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/0NUmIkBUSOs/default.jpg) | **PragmaticWorks** | [Databricks AI/BI Dashboard Parameters BREAKDOOWN](https://www.youtube.com/watch?v=0NUmIkBUSOs) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/NEpZFH3k0QE/default.jpg) | **PragmaticWorks** | [Calculated Measure vs Calculated Column in Power BI | What&#39;s The Difference?](https://www.youtube.com/watch?v=NEpZFH3k0QE) |
