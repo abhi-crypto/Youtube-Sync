@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-06-13 02:48:53 UTC
+> **Last Sync Date:** 2026-06-14 03:24:48 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/Yoqd1IuJV10/default.jpg) | **MicrosoftFabric** | [Get Started Fast with Fabric Jumpstart](https://www.youtube.com/watch?v=Yoqd1IuJV10) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/kIuHULXHmUA/default.jpg) | **MicrosoftFabric** | [Building the AI‑Native Data Stack](https://www.youtube.com/watch?v=kIuHULXHmUA) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/5AyCaqCDsDE/default.jpg) | **MicrosoftFabric** | [The Future of Data Integration in the Era of AI](https://www.youtube.com/watch?v=5AyCaqCDsDE) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/gtzBNfaxB3I/default.jpg) | **PragmaticWorks** | [Fabric Dataflow Gen2 &#39;Enable Full Hierarchy&#39; Setting Explained!](https://www.youtube.com/watch?v=gtzBNfaxB3I) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/WYctHtVHRyU/default.jpg) | **PragmaticWorks** | [What Is a Teams Environment in Power Platform?](https://www.youtube.com/watch?v=WYctHtVHRyU) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/2IImsrERP3Q/default.jpg) | **PragmaticWorks** | [Free Live Course: Power Pages: Beginner to Pro](https://www.youtube.com/watch?v=2IImsrERP3Q) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/m57KED7bGeA/default.jpg) | **PragmaticWorks** | [Free Live Event: Chat With Your Data Using Fabric Data Agents](https://www.youtube.com/watch?v=m57KED7bGeA) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/XcSr9MqdYP8/default.jpg) | **PragmaticWorks** | [Flows Failing? Make Your Conditions Flexible!](https://www.youtube.com/watch?v=XcSr9MqdYP8) |
