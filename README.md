@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-06-19 03:43:24 UTC
+> **Last Sync Date:** 2026-06-20 02:47:22 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/R1JIRc4KT7I/default.jpg) | **MicrosoftFabric** | [From Insight to Action with Fabric IQ and Copilot Cowork](https://www.youtube.com/watch?v=R1JIRc4KT7I) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/yXnBfbrcyrY/default.jpg) | **MicrosoftFabric** | [Financial Data without Barriers](https://www.youtube.com/watch?v=yXnBfbrcyrY) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/q1UVhIV4Yv8/default.jpg) | **MicrosoftFabric** | [Real-Time Industrial Intelligence at Scale](https://www.youtube.com/watch?v=q1UVhIV4Yv8) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/NUXaMSXzGHs/default.jpg) | **PragmaticWorks** | [What is Version History in SharePoint?](https://www.youtube.com/watch?v=NUXaMSXzGHs) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/ZuLJl7pijo8/default.jpg) | **PragmaticWorks** | [What is SharePoint?](https://www.youtube.com/watch?v=ZuLJl7pijo8) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/R6x_V4itvno/default.jpg) | **PragmaticWorks** | [Databricks Genie Spaces](https://www.youtube.com/watch?v=R6x_V4itvno) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/T2ri-NB6dkQ/default.jpg) | **PragmaticWorks** | [What is a SharePoint Site?](https://www.youtube.com/watch?v=T2ri-NB6dkQ) |
