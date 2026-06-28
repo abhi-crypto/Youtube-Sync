@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-06-27 02:37:47 UTC
+> **Last Sync Date:** 2026-06-28 02:51:57 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -8,7 +8,7 @@
 | ![SQLBI](https://i.ytimg.com/vi/fqFKkRKh7vk/default.jpg) | **SQLBI** | [Dynamic pricing model for aircraft seat sales with Synoptic Panel and Power BI](https://www.youtube.com/watch?v=fqFKkRKh7vk) |
 | ![GuyInACube](https://i.ytimg.com/vi/YWcxgpa5VlI/default.jpg) | **GuyInACube** | [Power BI Finally Has a Date Picker — No More Workarounds?](https://www.youtube.com/watch?v=YWcxgpa5VlI) |
 | ![GuyInACube](https://i.ytimg.com/vi/y1iw0tf4lzY/default.jpg) | **GuyInACube** | [Is ontology replacing the semantic model?](https://www.youtube.com/watch?v=y1iw0tf4lzY) |
-| ![GuyInACube](https://i.ytimg.com/vi/pDRSXOK6fq0/default.jpg) | **GuyInACube** | [We tested the New Power BI Report Skills: The Future of AI-Powered Reporting? [Steb by step demo]](https://www.youtube.com/watch?v=pDRSXOK6fq0) |
+| ![GuyInACube](https://i.ytimg.com/vi/UMivSJUTBns/default.jpg) | **GuyInACube** | [Azure SQL Database for Free? I Built a Real App Backend](https://www.youtube.com/watch?v=UMivSJUTBns) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/-FmqjOmywa4/default.jpg) | **MicrosoftFabric** | [Unify and distribute data with Copy job + dbt job in Fabric Data Factory](https://www.youtube.com/watch?v=-FmqjOmywa4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/JOuLrfdOk1c/default.jpg) | **MicrosoftFabric** | [Databases in Microsoft Fabric - Enabling Analytics and AI on Operational Data](https://www.youtube.com/watch?v=JOuLrfdOk1c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/8IlhWstfVzw/default.jpg) | **MicrosoftFabric** | [One platform for every data builder with Data Factory in Microsoft Fabric](https://www.youtube.com/watch?v=8IlhWstfVzw) |
