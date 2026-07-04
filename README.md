@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-07-03 02:24:13 UTC
+> **Last Sync Date:** 2026-07-04 02:22:40 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/-FmqjOmywa4/default.jpg) | **MicrosoftFabric** | [Unify and distribute data with Copy job + dbt job in Fabric Data Factory](https://www.youtube.com/watch?v=-FmqjOmywa4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/JOuLrfdOk1c/default.jpg) | **MicrosoftFabric** | [Databases in Microsoft Fabric - Enabling Analytics and AI on Operational Data](https://www.youtube.com/watch?v=JOuLrfdOk1c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/8IlhWstfVzw/default.jpg) | **MicrosoftFabric** | [One platform for every data builder with Data Factory in Microsoft Fabric](https://www.youtube.com/watch?v=8IlhWstfVzw) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/1QD2YrCgNGs/default.jpg) | **PragmaticWorks** | [Drill Down or Drill Through? Power BI Explained!](https://www.youtube.com/watch?v=1QD2YrCgNGs) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/UDWsZC-u3Ss/default.jpg) | **PragmaticWorks** | [Should You Use Auto Date/Time in Power BI?](https://www.youtube.com/watch?v=UDWsZC-u3Ss) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/QtQWwhWJFCE/default.jpg) | **PragmaticWorks** | [Fabric Apps Are Here: Build Data Apps Directly in Microsoft Fabric](https://www.youtube.com/watch?v=QtQWwhWJFCE) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/7p7TpNHTi48/default.jpg) | **PragmaticWorks** | [Edit Interactions in Power BI Explained!](https://www.youtube.com/watch?v=7p7TpNHTi48) |
