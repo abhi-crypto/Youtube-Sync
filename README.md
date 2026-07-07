@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-07-06 02:36:28 UTC
+> **Last Sync Date:** 2026-07-07 02:32:11 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/-FmqjOmywa4/default.jpg) | **MicrosoftFabric** | [Unify and distribute data with Copy job + dbt job in Fabric Data Factory](https://www.youtube.com/watch?v=-FmqjOmywa4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/JOuLrfdOk1c/default.jpg) | **MicrosoftFabric** | [Databases in Microsoft Fabric - Enabling Analytics and AI on Operational Data](https://www.youtube.com/watch?v=JOuLrfdOk1c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/8IlhWstfVzw/default.jpg) | **MicrosoftFabric** | [One platform for every data builder with Data Factory in Microsoft Fabric](https://www.youtube.com/watch?v=8IlhWstfVzw) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/1QD2YrCgNGs/default.jpg) | **PragmaticWorks** | [Drill Down or Drill Through? Power BI Explained!](https://www.youtube.com/watch?v=1QD2YrCgNGs) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/r_77QwpwxaQ/default.jpg) | **PragmaticWorks** | [Left vs. Right vs. Inner Join in Power BI | What&#39;s the Difference?](https://www.youtube.com/watch?v=r_77QwpwxaQ) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/QtQWwhWJFCE/default.jpg) | **PragmaticWorks** | [Fabric Apps Are Here: Build Data Apps Directly in Microsoft Fabric](https://www.youtube.com/watch?v=QtQWwhWJFCE) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/LWjrT00xAoA/default_live.jpg) | **PragmaticWorks** | [Preview: Power Pages: Beginner to Pro](https://www.youtube.com/watch?v=LWjrT00xAoA) |
