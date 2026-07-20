@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-07-19 02:05:17 UTC
+> **Last Sync Date:** 2026-07-20 02:25:42 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/AYbXb-SKTQw/default.jpg) | **MicrosoftFabric** | [Get Certified: Exam DP-600 | Exploring the Data Warehouse](https://www.youtube.com/watch?v=AYbXb-SKTQw) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/_MwA03OKvZ0/default.jpg) | **MicrosoftFabric** | [Get Certified: Exam DP-600 | Semantic Models and Power BI](https://www.youtube.com/watch?v=_MwA03OKvZ0) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/Qtb-dIBTvLc/default.jpg) | **PragmaticWorks** | [Everything in Power BI Starts with a Workspace](https://www.youtube.com/watch?v=Qtb-dIBTvLc) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/jFdsndHsGBQ/default.jpg) | **PragmaticWorks** | [Business Rules are Your Bestie in Power Apps](https://www.youtube.com/watch?v=jFdsndHsGBQ) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/GYDUpnLvd2E/default_live.jpg) | **PragmaticWorks** | [Free Live Event: Power Apps Code Apps Beginner to Pro](https://www.youtube.com/watch?v=GYDUpnLvd2E) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/ihbrh4CXgIo/default_live.jpg) | **PragmaticWorks** | [Preview: Power Apps Code Apps Beginner to Pro](https://www.youtube.com/watch?v=ihbrh4CXgIo) |
