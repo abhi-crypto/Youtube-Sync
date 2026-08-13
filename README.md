@@ -1,14 +1,14 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-08-12 01:20:40 UTC
+> **Last Sync Date:** 2026-08-13 01:22:05 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
 | ![SQLBI](https://i.ytimg.com/vi/sp8Bx2yL3lw/default.jpg) | **SQLBI** | [Creating DAX functions with AI to remove duplicated code](https://www.youtube.com/watch?v=sp8Bx2yL3lw) |
-| ![SQLBI](https://i.ytimg.com/vi/CrQZwxv9OiA/default.jpg) | **SQLBI** | [Analyzing the performance impact of visual calculations](https://www.youtube.com/watch?v=CrQZwxv9OiA) |
-| ![SQLBI](https://i.ytimg.com/vi/B8d3TxhBurs/default.jpg) | **SQLBI** | [Optimizing supermarket product placement with Synoptic Panel in Power BI](https://www.youtube.com/watch?v=B8d3TxhBurs) |
+| ![SQLBI](https://i.ytimg.com/vi/fqFKkRKh7vk/default.jpg) | **SQLBI** | [Dynamic pricing model for aircraft seat sales with Synoptic Panel and Power BI](https://www.youtube.com/watch?v=fqFKkRKh7vk) |
+| ![SQLBI](https://i.ytimg.com/vi/yAWy8-7lqMI/default.jpg) | **SQLBI** | [Synoptic Panel v2 Launch](https://www.youtube.com/watch?v=yAWy8-7lqMI) |
+| ![GuyInACube](https://i.ytimg.com/vi/5UPT_WHRrtI/default.jpg) | **GuyInACube** | [Stop Partial Power BI Refreshes: Keep Everything Current Together](https://www.youtube.com/watch?v=5UPT_WHRrtI) |
 | ![GuyInACube](https://i.ytimg.com/vi/XA8ii2q2Lb4/default.jpg) | **GuyInACube** | [When Should You START Using Microsoft Fabric?](https://www.youtube.com/watch?v=XA8ii2q2Lb4) |
 | ![GuyInACube](https://i.ytimg.com/vi/hHmSSPfgOTE/default.jpg) | **GuyInACube** | [AI Makes It Easier—Not Less Important](https://www.youtube.com/watch?v=hHmSSPfgOTE) |
-| ![GuyInACube](https://i.ytimg.com/vi/0zQfoO81bZI/default.jpg) | **GuyInACube** | [Join #HeyAlex in THE CUBE! Limited founder spots available now! www.guyinacube.com](https://www.youtube.com/watch?v=0zQfoO81bZI) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/Wpg2h4ue47c/default.jpg) | **MicrosoftFabric** | [Data at Speed: Porsche Cup &amp; Kumulus on Crash Analysis with Fabric Data Agents | Ep. 66 | Customer](https://www.youtube.com/watch?v=Wpg2h4ue47c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/rfCEmqtaerQ/default.jpg) | **MicrosoftFabric** | [Build Agent with AI in Data Agent](https://www.youtube.com/watch?v=rfCEmqtaerQ) |
