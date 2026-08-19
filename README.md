@@ -1,17 +1,17 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-08-18 00:52:02 UTC
+> **Last Sync Date:** 2026-08-19 00:52:39 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
 | ![SQLBI](https://i.ytimg.com/vi/sp8Bx2yL3lw/default.jpg) | **SQLBI** | [Creating DAX functions with AI to remove duplicated code](https://www.youtube.com/watch?v=sp8Bx2yL3lw) |
 | ![SQLBI](https://i.ytimg.com/vi/CrQZwxv9OiA/default.jpg) | **SQLBI** | [Analyzing the performance impact of visual calculations](https://www.youtube.com/watch?v=CrQZwxv9OiA) |
 | ![SQLBI](https://i.ytimg.com/vi/B8d3TxhBurs/default.jpg) | **SQLBI** | [Optimizing supermarket product placement with Synoptic Panel in Power BI](https://www.youtube.com/watch?v=B8d3TxhBurs) |
-| ![GuyInACube](https://i.ytimg.com/vi/nW3GZr9Td7U/default.jpg) | **GuyInACube** | [When Power BI Is No Longer Enough and Microsoft Fabric Steps In](https://www.youtube.com/watch?v=nW3GZr9Td7U) |
+| ![GuyInACube](https://i.ytimg.com/vi/WIL5SjjNY7c/default.jpg) | **GuyInACube** | [Stop Overbuilding Power BI Tooltips: Use One Clear Sentence](https://www.youtube.com/watch?v=WIL5SjjNY7c) |
+| ![GuyInACube](https://i.ytimg.com/vi/srI44Jrt83A/default.jpg) | **GuyInACube** | [Can Power BI Sentence Tooltips ELIMINATE User Confusion?](https://www.youtube.com/watch?v=srI44Jrt83A) |
 | ![GuyInACube](https://i.ytimg.com/vi/5UPT_WHRrtI/default.jpg) | **GuyInACube** | [Stop Partial Power BI Refreshes: Keep Everything Current Together](https://www.youtube.com/watch?v=5UPT_WHRrtI) |
-| ![GuyInACube](https://i.ytimg.com/vi/XA8ii2q2Lb4/default.jpg) | **GuyInACube** | [When Should You START Using Microsoft Fabric?](https://www.youtube.com/watch?v=XA8ii2q2Lb4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/Wpg2h4ue47c/default.jpg) | **MicrosoftFabric** | [Data at Speed: Porsche Cup &amp; Kumulus on Crash Analysis with Fabric Data Agents | Ep. 66 | Customer](https://www.youtube.com/watch?v=Wpg2h4ue47c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/rfCEmqtaerQ/default.jpg) | **MicrosoftFabric** | [Build Agent with AI in Data Agent](https://www.youtube.com/watch?v=rfCEmqtaerQ) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/t_6oQ2IFdXU/default.jpg) | **PragmaticWorks** | [Model Your Data with Copilot on the Web!](https://www.youtube.com/watch?v=t_6oQ2IFdXU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/BgOb9W14vHI/default.jpg) | **PragmaticWorks** | [What Is Microsoft Fabric? (And Why Should You Care?)](https://www.youtube.com/watch?v=BgOb9W14vHI) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/aw1RGW66mL0/default.jpg) | **PragmaticWorks** | [The Shape Map in Power BI BREAKDOWN](https://www.youtube.com/watch?v=aw1RGW66mL0) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/IRItwoUDYKI/default_live.jpg) | **PragmaticWorks** | [Preview: Fabric Beginner to Pro](https://www.youtube.com/watch?v=IRItwoUDYKI) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/fkrcJuOIs9A/default_live.jpg) | **PragmaticWorks** | [Free Live Course: Fabric Beginner To Pro](https://www.youtube.com/watch?v=fkrcJuOIs9A) |
