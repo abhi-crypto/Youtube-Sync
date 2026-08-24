@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-08-23 00:56:48 UTC
+> **Last Sync Date:** 2026-08-24 00:54:42 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -13,5 +13,5 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/rfCEmqtaerQ/default.jpg) | **MicrosoftFabric** | [Build Agent with AI in Data Agent](https://www.youtube.com/watch?v=rfCEmqtaerQ) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/4KuwIT91i-g/default.jpg) | **PragmaticWorks** | [Unused Variables Cluttering Your Power App? Clean Them Up!](https://www.youtube.com/watch?v=4KuwIT91i-g) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/WgirtZDvwGc/default.jpg) | **PragmaticWorks** | [Why Do Field Parameters FAIL in Power BI!?](https://www.youtube.com/watch?v=WgirtZDvwGc) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/rmgHGlxNzaI/default.jpg) | **PragmaticWorks** | [Power BI: Dynamic Colors and Formatting with DAX Measures](https://www.youtube.com/watch?v=rmgHGlxNzaI) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/BgOb9W14vHI/default.jpg) | **PragmaticWorks** | [What Is Microsoft Fabric? (And Why Should You Care?)](https://www.youtube.com/watch?v=BgOb9W14vHI) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/IRItwoUDYKI/default_live.jpg) | **PragmaticWorks** | [Preview: Fabric Beginner to Pro](https://www.youtube.com/watch?v=IRItwoUDYKI) |
