@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-08-24 00:54:42 UTC
+> **Last Sync Date:** 2026-08-25 00:54:28 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/Wpg2h4ue47c/default.jpg) | **MicrosoftFabric** | [Data at Speed: Porsche Cup &amp; Kumulus on Crash Analysis with Fabric Data Agents | Ep. 66 | Customer](https://www.youtube.com/watch?v=Wpg2h4ue47c) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/rfCEmqtaerQ/default.jpg) | **MicrosoftFabric** | [Build Agent with AI in Data Agent](https://www.youtube.com/watch?v=rfCEmqtaerQ) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/4KuwIT91i-g/default.jpg) | **PragmaticWorks** | [Unused Variables Cluttering Your Power App? Clean Them Up!](https://www.youtube.com/watch?v=4KuwIT91i-g) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/1PwJ4y5xN3U/default.jpg) | **PragmaticWorks** | [Using DAX Measures to Unify Your Reports in Power BI!](https://www.youtube.com/watch?v=1PwJ4y5xN3U) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/BgOb9W14vHI/default.jpg) | **PragmaticWorks** | [What Is Microsoft Fabric? (And Why Should You Care?)](https://www.youtube.com/watch?v=BgOb9W14vHI) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/IRItwoUDYKI/default_live.jpg) | **PragmaticWorks** | [Preview: Fabric Beginner to Pro](https://www.youtube.com/watch?v=IRItwoUDYKI) |
