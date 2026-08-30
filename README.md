@@ -1,11 +1,11 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-08-29 05:10:56 UTC
+> **Last Sync Date:** 2026-08-30 03:01:57 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
-| ![SQLBI](https://i.ytimg.com/vi/qYQpl5Hjdk0/default.jpg) | **SQLBI** | [Testing DAX measures by using AI](https://www.youtube.com/watch?v=qYQpl5Hjdk0) |
-| ![SQLBI](https://i.ytimg.com/vi/sp8Bx2yL3lw/default.jpg) | **SQLBI** | [Creating DAX functions with AI to remove duplicated code](https://www.youtube.com/watch?v=sp8Bx2yL3lw) |
-| ![SQLBI](https://i.ytimg.com/vi/CrQZwxv9OiA/default.jpg) | **SQLBI** | [Analyzing the performance impact of visual calculations](https://www.youtube.com/watch?v=CrQZwxv9OiA) |
+| ![SQLBI](https://i.ytimg.com/vi/fqFKkRKh7vk/default.jpg) | **SQLBI** | [Dynamic pricing model for aircraft seat sales with Synoptic Panel and Power BI](https://www.youtube.com/watch?v=fqFKkRKh7vk) |
+| ![SQLBI](https://i.ytimg.com/vi/yAWy8-7lqMI/default.jpg) | **SQLBI** | [Synoptic Panel v2 Launch](https://www.youtube.com/watch?v=yAWy8-7lqMI) |
+| ![SQLBI](https://i.ytimg.com/vi/NzR0PoeLcRg/default.jpg) | **SQLBI** | [Using pie charts is not the end of the world](https://www.youtube.com/watch?v=NzR0PoeLcRg) |
 | ![GuyInACube](https://i.ytimg.com/vi/v-JHzodEPGY/default.jpg) | **GuyInACube** | [Stop Updating Microsoft Fabric Workspaces One by One](https://www.youtube.com/watch?v=v-JHzodEPGY) |
 | ![GuyInACube](https://i.ytimg.com/vi/uCxk0m6G6ao/default.jpg) | **GuyInACube** | [Are You Treating Microsoft Fabric Workspaces Like Folders?](https://www.youtube.com/watch?v=uCxk0m6G6ao) |
 | ![GuyInACube](https://i.ytimg.com/vi/k6jpcX54yrU/default.jpg) | **GuyInACube** | [Power BI Reports OR Semantic Models: What&#39;s More Important?](https://www.youtube.com/watch?v=k6jpcX54yrU) |
