@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-09-09 02:34:54 UTC
+> **Last Sync Date:** 2026-09-10 02:36:34 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -11,6 +11,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/s7kKIapy_dQ/default.jpg) | **MicrosoftFabric** | [Fabric Update - July 2026](https://www.youtube.com/watch?v=s7kKIapy_dQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/qB2FJCCd940/default.jpg) | **MicrosoftFabric** | [Planning in Microsoft Fabric: PowerTable sheets demo](https://www.youtube.com/watch?v=qB2FJCCd940) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/EFlMpOy9Zt4/default.jpg) | **PragmaticWorks** | [You Don&#39;t Need to Keep Clicking Apply in Power BI! Do This Instead!](https://www.youtube.com/watch?v=EFlMpOy9Zt4) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/Eim-FKrAPWc/default.jpg) | **PragmaticWorks** | [Power BI Finally Fixed the Most Annoying Part of Themes!](https://www.youtube.com/watch?v=Eim-FKrAPWc) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/Sfm3-TBi-e0/default.jpg) | **PragmaticWorks** | [Basic Error Handling in Power Automate!](https://www.youtube.com/watch?v=Sfm3-TBi-e0) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/kjFD7k8YOh8/default.jpg) | **PragmaticWorks** | [Use Brand Templates in Power BI EASILY!](https://www.youtube.com/watch?v=kjFD7k8YOh8) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/IRItwoUDYKI/default.jpg) | **PragmaticWorks** | [Preview: Fabric Beginner to Pro](https://www.youtube.com/watch?v=IRItwoUDYKI) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/8Bu2m_8W1ds/default_live.jpg) | **PragmaticWorks** | [AI for Nonprofits: Real-World Solutions with Microsoft&#39;s AI Platform](https://www.youtube.com/watch?v=8Bu2m_8W1ds) |
