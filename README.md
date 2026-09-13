@@ -1,11 +1,11 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-09-12 02:38:51 UTC
+> **Last Sync Date:** 2026-09-13 02:37:25 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
-| ![SQLBI](https://i.ytimg.com/vi/hIdtNrp047M/default.jpg) | **SQLBI** | [Writing DAX at the correct granularity](https://www.youtube.com/watch?v=hIdtNrp047M) |
 | ![SQLBI](https://i.ytimg.com/vi/fqFKkRKh7vk/default.jpg) | **SQLBI** | [Dynamic pricing model for aircraft seat sales with Synoptic Panel and Power BI](https://www.youtube.com/watch?v=fqFKkRKh7vk) |
 | ![SQLBI](https://i.ytimg.com/vi/yAWy8-7lqMI/default.jpg) | **SQLBI** | [Synoptic Panel v2 Launch](https://www.youtube.com/watch?v=yAWy8-7lqMI) |
+| ![SQLBI](https://i.ytimg.com/vi/NzR0PoeLcRg/default.jpg) | **SQLBI** | [Using pie charts is not the end of the world](https://www.youtube.com/watch?v=NzR0PoeLcRg) |
 | ![GuyInACube](https://i.ytimg.com/vi/vjcWToSAlZ8/default.jpg) | **GuyInACube** | [Make your Power BI mobile reports POP](https://www.youtube.com/watch?v=vjcWToSAlZ8) |
 | ![GuyInACube](https://i.ytimg.com/vi/fSHcLxA9rY4/default.jpg) | **GuyInACube** | [Dynamic labels in Power BI using DAX](https://www.youtube.com/watch?v=fSHcLxA9rY4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/EyqSmaC12lk/default.jpg) | **MicrosoftFabric** | [Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)](https://www.youtube.com/watch?v=EyqSmaC12lk) |
