@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-09-14 02:53:11 UTC
+> **Last Sync Date:** 2026-09-15 02:55:42 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -11,6 +11,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/s7kKIapy_dQ/default.jpg) | **MicrosoftFabric** | [Fabric Update - July 2026](https://www.youtube.com/watch?v=s7kKIapy_dQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/qB2FJCCd940/default.jpg) | **MicrosoftFabric** | [Planning in Microsoft Fabric: PowerTable sheets demo](https://www.youtube.com/watch?v=qB2FJCCd940) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/wDeKH1sRbqI/default.jpg) | **PragmaticWorks** | [Stop Formatting Manually - Use Power BI JSON Themes!](https://www.youtube.com/watch?v=wDeKH1sRbqI) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/vuAR4qr8_7M/default.jpg) | **PragmaticWorks** | [Create a Custom Power BI Theme in Minutes!](https://www.youtube.com/watch?v=vuAR4qr8_7M) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/Eim-FKrAPWc/default.jpg) | **PragmaticWorks** | [Power BI Finally Fixed the Most Annoying Part of Themes!](https://www.youtube.com/watch?v=Eim-FKrAPWc) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/BgOb9W14vHI/default.jpg) | **PragmaticWorks** | [What Is Microsoft Fabric? (And Why Should You Care?)](https://www.youtube.com/watch?v=BgOb9W14vHI) |
