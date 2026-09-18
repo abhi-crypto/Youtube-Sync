@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-09-17 02:55:06 UTC
+> **Last Sync Date:** 2026-09-18 02:41:34 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -11,6 +11,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/s7kKIapy_dQ/default.jpg) | **MicrosoftFabric** | [Fabric Update - July 2026](https://www.youtube.com/watch?v=s7kKIapy_dQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/qB2FJCCd940/default.jpg) | **MicrosoftFabric** | [Planning in Microsoft Fabric: PowerTable sheets demo](https://www.youtube.com/watch?v=qB2FJCCd940) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/eEGUl7WBC0Y/default.jpg) | **PragmaticWorks** | [The Power Automate Approval Trick You NEED](https://www.youtube.com/watch?v=eEGUl7WBC0Y) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/Zzbev138Fz0/default.jpg) | **PragmaticWorks** | [Tips for Templates in Power Automate](https://www.youtube.com/watch?v=Zzbev138Fz0) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/vuAR4qr8_7M/default.jpg) | **PragmaticWorks** | [Create a Custom Power BI Theme in Minutes!](https://www.youtube.com/watch?v=vuAR4qr8_7M) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/h5znkjHUlWU/default.jpg) | **PragmaticWorks** | [Stop Wasting Time Looking For Templates in Power Automate!](https://www.youtube.com/watch?v=h5znkjHUlWU) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/ND8GdlKaP-I/default.jpg) | **PragmaticWorks** | [Free Live Workshop: Building Everyday Agents with Microsoft Copilot Agent Builder](https://www.youtube.com/watch?v=ND8GdlKaP-I) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/fkrcJuOIs9A/default.jpg) | **PragmaticWorks** | [Free Live Course: Fabric Beginner To Pro](https://www.youtube.com/watch?v=fkrcJuOIs9A) |
