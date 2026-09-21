@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-09-20 02:52:52 UTC
+> **Last Sync Date:** 2026-09-21 02:50:09 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -11,6 +11,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/js8I0wCsihQ/default.jpg) | **MicrosoftFabric** | [dbt + Microsoft Fabric — The Future of Analytics Engineering](https://www.youtube.com/watch?v=js8I0wCsihQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/s7kKIapy_dQ/default.jpg) | **MicrosoftFabric** | [Fabric Update - July 2026](https://www.youtube.com/watch?v=s7kKIapy_dQ) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/qB2FJCCd940/default.jpg) | **MicrosoftFabric** | [Planning in Microsoft Fabric: PowerTable sheets demo](https://www.youtube.com/watch?v=qB2FJCCd940) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/h5znkjHUlWU/default.jpg) | **PragmaticWorks** | [Stop Wasting Time Looking For Templates in Power Automate!](https://www.youtube.com/watch?v=h5znkjHUlWU) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/ND8GdlKaP-I/default.jpg) | **PragmaticWorks** | [Free Live Workshop: Building Everyday Agents with Microsoft Copilot Agent Builder](https://www.youtube.com/watch?v=ND8GdlKaP-I) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/fkrcJuOIs9A/default.jpg) | **PragmaticWorks** | [Free Live Course: Fabric Beginner To Pro](https://www.youtube.com/watch?v=fkrcJuOIs9A) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/r-ESeGtjdZw/default.jpg) | **PragmaticWorks** | [Bulk Record Updating In Power Automate](https://www.youtube.com/watch?v=r-ESeGtjdZw) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/8Bu2m_8W1ds/default_live.jpg) | **PragmaticWorks** | [AI for Nonprofits: Real-World Solutions with Microsoft&#39;s AI Platform](https://www.youtube.com/watch?v=8Bu2m_8W1ds) |
