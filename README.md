@@ -1,11 +1,11 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-09-26 03:01:13 UTC
+> **Last Sync Date:** 2026-09-27 03:06:26 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
-| ![SQLBI](https://i.ytimg.com/vi/KtO0BRKHBv4/default.jpg) | **SQLBI** | [Start using DAX with AI](https://www.youtube.com/watch?v=KtO0BRKHBv4) |
 | ![SQLBI](https://i.ytimg.com/vi/fqFKkRKh7vk/default.jpg) | **SQLBI** | [Dynamic pricing model for aircraft seat sales with Synoptic Panel and Power BI](https://www.youtube.com/watch?v=fqFKkRKh7vk) |
 | ![SQLBI](https://i.ytimg.com/vi/yAWy8-7lqMI/default.jpg) | **SQLBI** | [Synoptic Panel v2 Launch](https://www.youtube.com/watch?v=yAWy8-7lqMI) |
+| ![SQLBI](https://i.ytimg.com/vi/NzR0PoeLcRg/default.jpg) | **SQLBI** | [Using pie charts is not the end of the world](https://www.youtube.com/watch?v=NzR0PoeLcRg) |
 | ![GuyInACube](https://i.ytimg.com/vi/vjcWToSAlZ8/default.jpg) | **GuyInACube** | [Make your Power BI mobile reports POP](https://www.youtube.com/watch?v=vjcWToSAlZ8) |
 | ![GuyInACube](https://i.ytimg.com/vi/fSHcLxA9rY4/default.jpg) | **GuyInACube** | [Dynamic labels in Power BI using DAX](https://www.youtube.com/watch?v=fSHcLxA9rY4) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/aQCKDpUVEmI/default.jpg) | **MicrosoftFabric** | [How Microsoft’s People Team (HR) Runs on Fabric](https://www.youtube.com/watch?v=aQCKDpUVEmI) |
