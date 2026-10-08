@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-10-07 03:46:38 UTC
+> **Last Sync Date:** 2026-10-08 04:00:17 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/imLQIl3XiDg/default.jpg) | **MicrosoftFabric** | [FabCon+SQLCon Europe Keynote: The Data Foundation for AI](https://www.youtube.com/watch?v=imLQIl3XiDg) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/tRdViKKjjdI/default.jpg) | **MicrosoftFabric** | [Microsoft&#39;s People Team (HR) Engineering Excellence with Fabric](https://www.youtube.com/watch?v=tRdViKKjjdI) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/u9Zs8_eqRYY/default.jpg) | **MicrosoftFabric** | [Microsoft Fabric at FabCon Spain 2026 | Event Opening Video](https://www.youtube.com/watch?v=u9Zs8_eqRYY) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/EBBouYjV5xs/default.jpg) | **PragmaticWorks** | [Preview: Building Everyday Agents with Microsoft Copilot Agent Builder](https://www.youtube.com/watch?v=EBBouYjV5xs) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/IJ94xk5fs38/default.jpg) | **PragmaticWorks** | [Goodbye PL-200, Hello AB-410!](https://www.youtube.com/watch?v=IJ94xk5fs38) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/cMJrvUeNneY/default.jpg) | **PragmaticWorks** | [Window Functions in SQL](https://www.youtube.com/watch?v=cMJrvUeNneY) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/rZc7yUQLyB8/default.jpg) | **PragmaticWorks** | [What Are Metric Views in Databricks?](https://www.youtube.com/watch?v=rZc7yUQLyB8) |
