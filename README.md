@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-10-13 04:59:24 UTC
+> **Last Sync Date:** 2026-10-14 03:05:56 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -12,6 +12,6 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/imLQIl3XiDg/default.jpg) | **MicrosoftFabric** | [FabCon+SQLCon Europe Keynote: The Data Foundation for AI](https://www.youtube.com/watch?v=imLQIl3XiDg) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/tRdViKKjjdI/default.jpg) | **MicrosoftFabric** | [Microsoft&#39;s People Team (HR) Engineering Excellence with Fabric](https://www.youtube.com/watch?v=tRdViKKjjdI) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/u9Zs8_eqRYY/default.jpg) | **MicrosoftFabric** | [Microsoft Fabric at FabCon Spain 2026 | Event Opening Video](https://www.youtube.com/watch?v=u9Zs8_eqRYY) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/zyj1h2mNJqI/default.jpg) | **PragmaticWorks** | [Databricks Unity Catalog Permissions](https://www.youtube.com/watch?v=zyj1h2mNJqI) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/Gh1f3UKa51A/default.jpg) | **PragmaticWorks** | [Microsoft Teams for Education](https://www.youtube.com/watch?v=Gh1f3UKa51A) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/BcihldhXTT0/default.jpg) | **PragmaticWorks** | [Slow Data? Let Us Help!](https://www.youtube.com/watch?v=BcihldhXTT0) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/QjLkYxFn9p8/default.jpg) | **PragmaticWorks** | [SharePoint Image Column into Power Automate (Super Easy Fix!)](https://www.youtube.com/watch?v=QjLkYxFn9p8) |
