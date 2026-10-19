@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-10-18 02:34:55 UTC
+> **Last Sync Date:** 2026-10-19 02:48:42 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -14,4 +14,4 @@
 | ![MicrosoftFabric](https://i.ytimg.com/vi/tRdViKKjjdI/default.jpg) | **MicrosoftFabric** | [Turning Workforce Insights into Action with Microsoft Fabric](https://www.youtube.com/watch?v=tRdViKKjjdI) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/lDPaWDscU9Q/default.jpg) | **PragmaticWorks** | [Managed or unmanaged? Pick the wrong one and you could lose everything. 😬](https://www.youtube.com/watch?v=lDPaWDscU9Q) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/8epdQV1NOIM/default.jpg) | **PragmaticWorks** | [Free Live Course: Building Everyday Agents with Microsoft Copilot Agent Builder](https://www.youtube.com/watch?v=8epdQV1NOIM) |
-| ![PragmaticWorks](https://i.ytimg.com/vi/PDYfb2Px5jE/default.jpg) | **PragmaticWorks** | [Free Live Workshop: Data Modeling in Fabric](https://www.youtube.com/watch?v=PDYfb2Px5jE) |
+| ![PragmaticWorks](https://i.ytimg.com/vi/4anHecy_khw/default.jpg) | **PragmaticWorks** | [How to Parse Repeated Values out of Emailed Documents and Save to Dataverse!](https://www.youtube.com/watch?v=4anHecy_khw) |
