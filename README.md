@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-10-23 02:55:56 UTC
+> **Last Sync Date:** 2026-10-24 02:52:48 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -9,9 +9,9 @@
 | ![GuyInACube](https://i.ytimg.com/vi/a4tfHpPR5KA/default.jpg) | **GuyInACube** | [How to Use Direct Lake Calculated Columns in Power BI](https://www.youtube.com/watch?v=a4tfHpPR5KA) |
 | ![GuyInACube](https://i.ytimg.com/vi/v-JHzodEPGY/default.jpg) | **GuyInACube** | [Stop Updating Microsoft Fabric Workspaces One by One](https://www.youtube.com/watch?v=v-JHzodEPGY) |
 | ![GuyInACube](https://i.ytimg.com/vi/uCxk0m6G6ao/default.jpg) | **GuyInACube** | [Are You Treating Microsoft Fabric Workspaces Like Folders?](https://www.youtube.com/watch?v=uCxk0m6G6ao) |
+| ![MicrosoftFabric](https://i.ytimg.com/vi/gaHOVUhJ4_k/default.jpg) | **MicrosoftFabric** | [AI-Ready Starts with Data: Building the Foundation for Intelligent Business](https://www.youtube.com/watch?v=gaHOVUhJ4_k) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/lUPdm_prrN0/default.jpg) | **MicrosoftFabric** | [The Intelligence-Driven Enterprise: How Trusted Data Turns AI Ambition into Business Value](https://www.youtube.com/watch?v=lUPdm_prrN0) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/eWatgdCF9GQ/default.jpg) | **MicrosoftFabric** | [Microsoft’s People Team (HR) Engineering Excellence with Fabric](https://www.youtube.com/watch?v=eWatgdCF9GQ) |
-| ![MicrosoftFabric](https://i.ytimg.com/vi/imLQIl3XiDg/default.jpg) | **MicrosoftFabric** | [FabCon+SQLCon Europe Keynote: The Data Foundation for AI](https://www.youtube.com/watch?v=imLQIl3XiDg) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/9w_Qr1LYoBg/default.jpg) | **PragmaticWorks** | [When Should You Use a Pie or Donut Chart?](https://www.youtube.com/watch?v=9w_Qr1LYoBg) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/mxMFntiC38U/default.jpg) | **PragmaticWorks** | [T-SQL Tips and Tricks for Beginners Part 2](https://www.youtube.com/watch?v=mxMFntiC38U) |
 | ![PragmaticWorks](https://i.ytimg.com/vi/lDPaWDscU9Q/default.jpg) | **PragmaticWorks** | [Managed or unmanaged? Pick the wrong one and you could lose everything. 😬](https://www.youtube.com/watch?v=lDPaWDscU9Q) |
