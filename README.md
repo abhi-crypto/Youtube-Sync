@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-11-08 03:52:02 UTC
+> **Last Sync Date:** 2026-11-09 04:05:06 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
@@ -7,8 +7,8 @@
 | ![SQLBI](https://i.ytimg.com/vi/7q1fKhM7uV8/default.jpg) | **SQLBI** | [Arrows that follow your shapes | SQLBI Whiteboard](https://www.youtube.com/watch?v=7q1fKhM7uV8) |
 | ![SQLBI](https://i.ytimg.com/vi/F52wwF9IiKk/default.jpg) | **SQLBI** | [Optimizing DAX with AI](https://www.youtube.com/watch?v=F52wwF9IiKk) |
 | ![GuyInACube](https://i.ytimg.com/vi/qJ13dD1jCrY/default.jpg) | **GuyInACube** | [Export Power Query to Excel (NO Power BI Needed!)](https://www.youtube.com/watch?v=qJ13dD1jCrY) |
+| ![GuyInACube](https://i.ytimg.com/vi/a4tfHpPR5KA/default.jpg) | **GuyInACube** | [The RIGHT WAY to Use Direct Lake Calculated Columns ](https://www.youtube.com/watch?v=a4tfHpPR5KA) |
 | ![GuyInACube](https://i.ytimg.com/vi/v-JHzodEPGY/default.jpg) | **GuyInACube** | [Stop Updating Microsoft Fabric Workspaces One by One](https://www.youtube.com/watch?v=v-JHzodEPGY) |
-| ![GuyInACube](https://i.ytimg.com/vi/uCxk0m6G6ao/default.jpg) | **GuyInACube** | [Are You Treating Microsoft Fabric Workspaces Like Folders?](https://www.youtube.com/watch?v=uCxk0m6G6ao) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/lNOQSTN1Oxc/default.jpg) | **MicrosoftFabric** | [Trusted Data, Real Impact: UWV’s Journey with Capgemini](https://www.youtube.com/watch?v=lNOQSTN1Oxc) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/fNVNYWVhkRI/default.jpg) | **MicrosoftFabric** | [Dentsu’s Journey to the AI-Powered Enterprise](https://www.youtube.com/watch?v=fNVNYWVhkRI) |
 | ![MicrosoftFabric](https://i.ytimg.com/vi/YvfxBQeum1A/default.jpg) | **MicrosoftFabric** | [AI Is Only as Powerful as the Data Behind It](https://www.youtube.com/watch?v=YvfxBQeum1A) |
