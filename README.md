@@ -1,5 +1,5 @@
 # 📊 Fabric & Power BI Video Dashboard
-> **Last Sync Date:** 2026-11-22 04:36:26 UTC
+> **Last Sync Date:** 2026-11-23 05:13:01 UTC
 
 | Thumbnail | Channel | Video Title |
 | :--- | :--- | :--- |
